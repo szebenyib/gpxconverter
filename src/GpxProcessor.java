@@ -6,6 +6,9 @@ import java.io.*;
 import java.util.ArrayList;
 import java.util.List;
 
+//TODO: buffered writing to avoid storing everything in memory
+//I don't know if it is needed though.
+
 /**
  * Created by Balint Szebenyi on 2014.06.01..
  * Reads and writes from and to GPX files.
@@ -124,8 +127,6 @@ public class GpxProcessor {
 				//Waypoints for geocache
 				int countOfWaypoints = cache.getWaypointsList().size();
 				for (int j = 0; j < countOfWaypoints; j++) {
-					//TODO: Move this to the waypoint part so that it can be
-					//inherited and called even for a geocache.
 					writer.write(
 							cache.getWaypointsList().get(j).getGeneralGPXPart
 									(true));
@@ -149,9 +150,6 @@ public class GpxProcessor {
 				System.getProperty("file.separator") +
 				getOutputFileName());
 	}
-
-	//TODO: Remove StringUtils somehow
-	//TODO: add continuous writing after every 10th cache
 
 	/**
 	 * Generates the output filename from the File inputFile.

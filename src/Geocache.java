@@ -175,8 +175,6 @@ public class Geocache extends Waypoint {
 				"\t\t<groundspeak:logs>\n";
 	}
 
-	//TODO: the same above is in log.java check if it cannot be avoided
-
 	/**
 	 * Wraps StringUtils.replaceEach to shorten it. Replaces special html
 	 * chars that would conflict with xml structure
