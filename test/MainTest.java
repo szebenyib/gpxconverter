@@ -10,7 +10,6 @@ import java.util.List;
 
 import static org.junit.Assert.*;
 
-//TODO: move to proper place
 public class MainTest {
 
 	File[] gpxInputFiles;
