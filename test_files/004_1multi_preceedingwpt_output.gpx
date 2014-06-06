@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+<wpt lat="47.6252833333" lon="18.81725">
+	<ele>275</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Fa törzse]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694-1]]></urlname>
+	<sym>Geocache</sym>
+	<type><![CDATA[Geocache]]></type>
+	<groundspeak:cache id="442501" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+		<groundspeak:name>Garancsi dombkerülő</groundspeak:name>
+		<groundspeak:placed_by>KBB-Kili</groundspeak:placed_by>
+		<groundspeak:owner id="78364">KBB-Kili [20-3980975]</groundspeak:owner>
+		<groundspeak:type>Multi-cache</groundspeak:type>
+		<groundspeak:difficulty>3</groundspeak:difficulty>
+		<groundspeak:terrain>3</groundspeak:terrain>
+		<groundspeak:country>Pest</groundspeak:country>
+		<groundspeak:long_description>&lt;b&gt;WAP&lt;/b&gt;
+Garancsi dombkerülő. Négypontos multi:
+1. Erdősávban egy vastagabb akácfa törzsén micro cache, kicsi filmes doboz.
+2. A füves dombon egy picike fa tövében.
+3. Egy kisfánál lévő speciális ágdarab.
+4. Jól elkülönülő facsoport tövében 7 cm átmérőjű 10 cm magas henger.
+Jelszó: a 4 jelszórészlet, sorrendjüknek megfelelően egymás után írva.
+&lt;HR color=&quot;gray&quot; size=&quot;1&quot; width=&quot;100%&quot; align=&quot;center&quot;&gt;
+&lt;a href=&quot;http://www.geocaching.hu/documents.geo?id=tb&quot;&gt; &lt;img src=&quot;http://www.geocaching.hu/files/tbok.gif&quot;&gt;&lt;/a&gt; A ládába TravelBug helyezhető.
+&lt;HR color=&quot;gray&quot; size=&quot;1&quot; width=&quot;100%&quot; align=&quot;center&quot;&gt;
+&lt;b&gt;Megközelítés&lt;/b&gt;
+
+Tömegközlekedés nincs Garancstetőre, így Piliscsabáról autóval vagy gyalogosan lehet megközelíteni. A túrát, kirándulást elsősorban gyalogosan ajánlom. Kisebb kirándulásról van szó, kibővítve komoly egésznapos túra lehet belőle. Autósoknak, szó szerinti séta. Biciklivel végig járható, de a tó felé tovább haladva, lesz egy kis biciklitolás. A lakópark végében kiváló lovarda is található, aki képzett ezen a téren, lovagolva kényelmesen megcsinálhatja. Autóval Piliscsaba felől, a 10-es útról Tinnye felé lekanyarodva érhetjük el. A Piliscsaba vége táblától pár méterre
+&amp;gt;coord lat=&quot;N 47° 37,802'&quot; lon=&quot;E 18° 49,010'&quot; altitude=&quot;206&quot; waypoint=&quot;Elágazás&quot; icon=&quot;Crossing&quot; description=&quot;Kanyarodás Garancstetőre&quot;&amp;lt;
+indul egy aszfaltozott út déli irányban, fel a lakóparkba. Parkolni lehet:
+&amp;gt;coord lat=&quot;N 47° 37,478'&quot; lon=&quot;E 18° 48,961'&quot; altitude=&quot;285&quot; waypoint=&quot;1Parkolás&quot; icon=&quot;Parking Area&quot; description=&quot;Parkolóhely-1&quot;&amp;lt;
+Még itt is parkolhatunk (a kényelmesebbek mindkettőnél):
+&amp;gt;coord lat=&quot;N 47° 37,353'&quot; lon=&quot;E 18° 48,866'&quot; altitude=&quot;285&quot; waypoint=&quot;2Parkolás&quot; icon=&quot;Parking Area&quot; description=&quot;Parkolóhely-2&quot;&amp;lt;
+Autóval járható a 4. pontig, sőt a végén Tinnyére is lemehetünk. Nem ajánlom, karcos lesz az autó a belógó ágak miatt.
+Gyalogosan a Volán buszról Piliscsabán, az iskola megállóhelynél kell leszállni. Ha szeretnénk Piliscsaba nevezetességet megnézni &lt;a href=&quot;http://www.geocaching.hu/caches.geo? id=4418&quot;&gt;GCPcs&lt;/a&gt; vezet bennünket, ha nem, akkor az Ősök Parkja után Tinnye irányába kell elindulni. A továbbiakat a túra/séta leírásánál olvashatjuk.&lt;HR color=&quot;gray&quot; size=&quot;1&quot; width=&quot;100%&quot; align=&quot;center&quot;&gt;
+&lt;b&gt;&lt;u&gt;Garancstető&lt;/u&gt;&lt;/b&gt;
+
+Piliscsabától déli irányban helyezkedik el. Tetején a Garancstető lakópark, nyugati lejtőjén pedig a Garancsliget lakópark található, szép környezetben. Korábban ez a vidék orosz harckocsi gyakorlótér volt, az orosz csapatok kivonulása után mezőgazdasági művelés folyt itt. Garancstető belterületbe vonása, közművesítése és parcellázása 1999-2000 során történt. Megkezdődött a Garancstető és a Garancsliget lakópark kiépítése. 230 telek található itt. Jelenleg kb. 50% a beépítettség (2006-os adat szerint 251 bejelentett lakos). Nagyon szép kilátással rendelkező, természetközeli telkek találhatók Garancson. Észak felé Piliscsaba látszik, nyugat felé Dorog és a Strázsa-hegy fele tekinthetünk, távolban a Gete. Keleti irányban a Nagyszénás, a Pilis vonulata látható, délen a tinnyei dombokat nézhetjük meg.
+A környék jellegzetesen dombos, bokros, néhol erdősávval tarkított vidék. A jellemző bokrok a kökény, a galagonya, a csipkebogyó. Az erdőkben csertölgy és akác található. Szép mezőket és mezőgazdasági művelés alatti területeket is láthatunk. A mezőket legelőnek használják. Gyakran találkozhatunk tehenekkel.
+&lt;HR color=&quot;gray&quot; size=&quot;1&quot; width=&quot;100%&quot; align=&quot;center&quot;&gt;
+&lt;b&gt;A dombkerülő séta/túra&lt;/b&gt;
+
+Gyalogosan elindulók már az Ősök Parkjától szép utat tesznek meg az első pontig. Az Ősök Parkjától induljunk el Tinnye felé. Sajnos a járda hamarosan elfogy. 200 m hosszú szakaszon az úttesten, vagy mellette a füvön kell menni. Ez az útszakasz kissé kellemetlen, kisgyermekekkel nem ajánlom. A kereszt után a Garancsra felvivő út kereszteződéséhez érünk,
+&amp;gt;coord lat=&quot;N 47° 37,802'&quot; lon=&quot;E 18° 49,010'&quot; altitude=&quot;206&quot; waypoint=&quot;1elágazás&quot; icon=&quot;Crossing&quot; description=&quot;Kanyarodás Garancstetőre&quot;&amp;lt;
+innét már kellemes ösvényen, födúton mehetünk tovább. Az erdősáv szélén kell haladnunk, amíg el nem fogy.
+&amp;gt;coord lat=&quot;N 47° 37,560'&quot; lon=&quot;E 18° 49,191'&quot; altitude=&quot;253&quot; waypoint=&quot;2Elágazás&quot; icon=&quot;Crossing&quot; description=&quot;Kanyarodás a domb tetejére&quot;&amp;lt;
+Itt merőlegesen, délnyugati irányban a domb teteje felé, az első pontig. Az Ősök Parkjától 25 perc. Szép kilátásunk lesz Piliscsabára és a Dorogi-medencére.
+A kényelmesebbek az 1. pont után a kis ösvényen a lakóparkba jutnak 2 perc alatt. Onnét a József liget utcán elérhető a 2. kilátópont.
+A bevállalósabbak az első pont után haladjanak az erdősáv szélén a második pont irányába. Végig szép kilátás kíséri az utat. A végén egy ritkás facsoporton keresztül
+&amp;gt;coord lat=&quot;N 47° 37,251'&quot; lon=&quot;E 18° 49,477'&quot; altitude=&quot;239&quot; waypoint=&quot;2Elágazás&quot; icon=&quot;Forest&quot; description=&quot;Ritkás facsoport&quot;&amp;lt;
+érkezünk a második kilátást jelentő dombtetőre. Itt az Ördög-oltár felé lesz szép panorámánk.
+A harmadik pontig vágjunk keresztül a lakóparkon, a 2Parkolás pontig (700 m)! Célszerű útvonal, a József liget utca, Csaba királyfi utca, Ráczvölgy utca. Nem ajánlott a völgyben kerülni a házakat, mert kerítések zárják el az utat! Az erdő felé induló murvás úton jutunk be a fák közé. A harmadik pontot egy keletre induló
+&amp;gt;coord lat=&quot;N 47° 37,271'&quot; lon=&quot;E 18° 48,811'&quot; altitude=&quot;285&quot; waypoint=&quot;Lovaglóút&quot; icon=&quot;Crossing&quot; description=&quot;Lovagló út keresztezése&quot;&amp;lt;
+lovagló úton érhetjük el. Nem légvonalban neki a bozótosnak! Sár esetén a sóderkupacon keresztül érdemes menni. A 3. ponttól remek kilátásunk lesz a lakóparkra, a lovardára, a Nagyszénásra.
+Ezután folytassuk utunkat az eredeti úton, hamarosan elmaradnak balról a fák és jól láthatjuk a Pilis vonulatát, a Nagyszénás irányába. Szép mezők és dombok húzódnak a hegyekig. Kövessük a földutat a domb tetejéig, majd ott nyugat felé bekanyarodik egy földút az erdőbe,
+&amp;gt;coord lat=&quot;N 47° 36,943'&quot; lon=&quot;E 18° 48,665'&quot; altitude=&quot;305&quot; waypoint=&quot;Sárgaelágazás&quot; icon=&quot;Crossing&quot; description=&quot;Régi sárga jelzés&quot;&amp;lt;
+amelyen sárga &lt;img src=&quot;http://geocaching.hu/files/tjelek/sk.gif&quot; alt=&quot;Sárga kereszt&quot; border=1&gt; jelzés maradványokat láthatunk.
+Ha az előbbi földúton haladnánk tovább, elérhetnénk a &lt;a href=&quot;http://www.geocaching.hu/caches.geo?id=335&quot;&gt; GCDob&lt;/a&gt;-ot. Az út a láda leírásában szereplő sorompóhoz vezet. Erről az oldalról elég sportos a felmenetel, de edzettebbek nekivághatnak. Jó 15-20 perc az odaút, + a hegy.
+Követve a régi turistautat, megművelt földek mellett haladunk el. Kb. 15 perc múlva néhány jellegzetes akácfával benőtt domb tetejére érkezünk, ez a 4. kilátópont. Itt Tinnyét meg a tinnyei dombokat szemlélhetjük meg. Északnyugatra, a távolban a Dorogi-medence látható. A szemben lévő dombok mögött található a Garancsi-tó.
+Ha a tavat nem szeretnénk megnézni a földúton 15-20 perc alatt Tinnyén vagyunk (ritka buszjáratok), vagy visszasétálhatunk Garancstetőre.
+Ha a tavat választjuk (ezt javaslom), a szemközti dombra felvezető úton induljunk el! Kissé meredek, de jól járható. A tó (&lt;a href=&quot;http://www.geocaching.hu/caches.geo?id=4419&quot;&gt;GCGrto&lt;/a&gt;) és az Üvegtigris (&lt;a href=&quot;http://geocaching.hu/caches.geo?id=1195&quot;&gt;GCUTIG&lt;/a&gt;) megtekintése után egy kellemes, de meredek ösvényen mehetünk vissza Garancstetőre.
+Ha visszatértünk Garancstetőre, a korábban leírt úton juthatunk Piliscsabára.
+&lt;HR color=&quot;gray&quot; size=&quot;1&quot; width=&quot;100%&quot; align=&quot;center&quot;&gt;
+Ha erőnk és időnk engedi kis időráfordítással felkereshetjük a környék további nevezetességeit, ládáit. Közel vannak. Ha ilyet tervezünk, kissé variálni kell a ládák sorrendjén. A 2. ponttól a kopár dombtetőn futó csapás a Mol ösvényhez vezet (15 perc). Az Ördög-oltár sziklát már messziről láthatjuk. Itt találjuk a &lt;a href=&quot;http://www.geocaching.hu/caches.geo?id=4282&quot;&gt; GCOltá&lt;/a&gt;-t, majd innét a Csabai-gombához is eljuthatunk (15 perc), &lt;a href=&quot;http://www.geocaching.hu/caches.geo?id=2867&quot;&gt; GCPgom&lt;/a&gt;. Végül az egyetemnél lévő buszmegállóhoz juthatunk ki. Ott is van egy virtuális láda &lt;a href=&quot;http://www.geocaching.hu/caches.geo?id=502&quot;&gt; GCPazm&lt;/a&gt;.
+&lt;HR color=&quot;gray&quot; size=&quot;1&quot; width=&quot;100%&quot; align=&quot;center&quot;&gt;
+&lt;b&gt;1. pont: Piliscsaba és a Dorogi-medence látképe&lt;/b&gt;
+&amp;gt;coord lat=&quot;N 47° 37,517'&quot; lon=&quot;E 18° 49,035'&quot; altitude=&quot;275&quot; multi=&quot;h&quot; icon=&quot;Geocache&quot; description=&quot;Fa törzse&quot;&amp;lt;
+Autósoknak az 1. parkolási helynél induló földúton be az erdőbe, ami kivisz a mezőre (2-3 perc).
+A mezőről érkezőknek: az erdősávot elérve, az ösvényről nyugatra fordulva, a mező szélén 12 métert haladva, délnyugat irányában két kis fa között be az erdőbe, 15 méterre található a rejtekadó vastagabb akácfa, egy kisebb vízmosás szélén. A fa törzsén lévő kéregben van egy 3 cm átmérőjű, 5 cm hosszú henger alakú filmes doboz, ezt kell keresni. Az eléréshez nem kell kérgeket leszakítani a fáról! Egy pici kéregdarab felemelésével megoldható a dolog.
+&lt;b&gt;2. pont: Kilátás az Ördög-oltár felé&lt;/b&gt;
+&amp;gt;coord lat=&quot;N 47° 37,158'&quot; lon=&quot;E 18° 49,491'&quot; altitude=&quot;250&quot; multi=&quot;v&quot; icon=&quot;Geocache&quot; description=&quot;A kopár dombtetőn&quot;&amp;lt;
+A csupasz domboldalon nem lesz gond megtalálni az elrejtett jelszó részletet egy kicsike fa alatt. A felirat kb. 7x4 cm-es, és nincs összehajtva.
+A lánc átlépése ne okozzon gondot! A terepmotorozók ellen tették ki. A szélső háztulajdonosok tudnak a dologról.
+A hó sem akadály, lesz téli rejtés.
+&lt;b&gt;3. pont: A lakópark a Nagyszénással&lt;/b&gt;
+&amp;gt;coord lat=&quot;N 47° 37,268'&quot; lon=&quot;E 18° 48,855'&quot; altitude=&quot;288&quot; multi=&quot;v&quot; icon=&quot;Geocache&quot; description=&quot;Kis fa alatti ág&quot;&amp;lt;
+A dombtetőn egy kisebb fánál kell egy speciális ágdarabot keresni, ott a jelszó részlet.
+Sár esetén nem a lovagló úton, hanem a sóderkupacon keresztül érdemes menni.
+&lt;b&gt;4. pont: Tinnye és a tinnyei dombok&lt;/b&gt;
+&amp;gt;coord lat=&quot;N 47° 37,142'&quot; lon=&quot;E 18° 48,085'&quot; altitude=&quot;290&quot; multi=&quot;h&quot; icon=&quot;Geocache&quot; description=&quot;Facsoport töve&quot;&amp;lt;
+A domboldalban található egy jellegzetes facsoport, szorosan egymás mellett. Ezek tövénél található a 7 cm átmérőjű 10 cm magas hengeres rejtés. &lt;HR color=&quot;gray&quot; size=&quot;1&quot; width=&quot;100%&quot; align=&quot;center&quot;&gt;		</groundspeak:long_description>
+		<groundspeak:logs>
+			<groundspeak:log id="1291629">
+				<groundspeak:date>2014-05-28T16:52:00</groundspeak:date>
+				<groundspeak:finder id="27588">nagyi11</groundspeak:finder>
+				<groundspeak:text encoded="False">Megtaláltuk! :)</groundspeak:text>
+			</groundspeak:log>
+			<groundspeak:log id="1290280">
+				<groundspeak:date>2014-05-25T13:30:00</groundspeak:date>
+				<groundspeak:finder id="14782">rétihéja</groundspeak:finder>
+				<groundspeak:text encoded="False">Szép helyek, ügyes rejtések. Vigyázni kell, mert könnyen belefuthatsz magánterületen fekvő lovardába. Köszi</groundspeak:text>
+			</groundspeak:log>
+			<groundspeak:log id="1290142">
+				<groundspeak:date>2014-05-25T10:59:00</groundspeak:date>
+				<groundspeak:finder id="3890">Marvin</groundspeak:finder>
+				<groundspeak:text encoded="False">Megleltem. Az első pont nekem nem tetszett, már kevéssé bírom a susnyásba rejtett ládákat, de a többi az kitűnő volt, remek kilátással.</groundspeak:text>
+			</groundspeak:log>
+			<groundspeak:log id="1289771">
+				<groundspeak:date>2014-05-24T13:30:00</groundspeak:date>
+				<groundspeak:finder id="8122">Kötelek</groundspeak:finder>
+				<groundspeak:text encoded="False">A 3. és 4. pontját a GCGRTO három pontja közé iktattuk, majd az első és második következett. Az első pont apropóját nem értettem, de szerencsére könnyen meglett, közben csak kétszer csípett meg a csalán....
+Mindegyik rejtés ötletes, jól kivitelezett. Köszönjük.</groundspeak:text>
+			</groundspeak:log>
+			<groundspeak:log id="1276343">
+				<groundspeak:date>2014-04-21T18:50:00</groundspeak:date>
+				<groundspeak:finder id="9325">akosgy</groundspeak:finder>
+				<groundspeak:text encoded="False">Délutáni, 16km-es barátnő-erősítő túra keretében. A büfétől indultunk és vegyesen csipegettük a két multi pontjait. A 1. pont (nekünk utolsó) nagyon kilógott az útvonalunkból, így az hazafelé drive-in lett. Ötletes, igényes pontok, köszi.</groundspeak:text>
+			</groundspeak:log>
+			<groundspeak:log id="1275703">
+				<groundspeak:date>2014-04-21T14:00:00</groundspeak:date>
+				<groundspeak:finder id="51731">Pimpi69</groundspeak:finder>
+				<groundspeak:text encoded="False"> [wapon beküldött szöveg]</groundspeak:text>
+			</groundspeak:log>
+			<groundspeak:log id="1276842">
+				<groundspeak:date>2014-04-21T00:00:00</groundspeak:date>
+				<groundspeak:finder id="31813">Gábor75</groundspeak:finder>
+				<groundspeak:text encoded="False">ok</groundspeak:text>
+			</groundspeak:log>
+			<groundspeak:log id="1275932">
+				<groundspeak:date>2014-04-20T00:00:00</groundspeak:date>
+				<groundspeak:finder id="79226">*SENTINEL*</groundspeak:finder>
+				<groundspeak:text encoded="False">Köszöntem az ötletes rejtést.</groundspeak:text>
+			</groundspeak:log>
+			<groundspeak:log id="1275693">
+				<groundspeak:date>2014-04-19T09:15:00</groundspeak:date>
+				<groundspeak:finder id="8487">ier</groundspeak:finder>
+				<groundspeak:text encoded="False">Megtaláltam, köszönöm.</groundspeak:text>
+			</groundspeak:log>
+			<groundspeak:log id="1272221">
+				<groundspeak:date>2014-04-13T13:50:00</groundspeak:date>
+				<groundspeak:finder id="22168">Famágus</groundspeak:finder>
+				<groundspeak:text encoded="False">Klassz volt, Oldfoxxal köszönjük!!</groundspeak:text>
+			</groundspeak:log>
+		</groundspeak:logs>
+	</groundspeak:cache>
+</wpt>
+
+<wpt lat="47.6193" lon="18.82485">
+	<ele>250</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694-2</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[A kopár dombtetőn]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694-2]]></urlname>
+	<sym>Physical stage</sym>
+	<type><![CDATA[Physical stage]]></type>
+</wpt>
+
+<wpt lat="47.6211333333" lon="18.81425">
+	<ele>288</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694-3</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Kis fa alatti ág]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694-3]]></urlname>
+	<sym>Physical stage</sym>
+	<type><![CDATA[Physical stage]]></type>
+</wpt>
+
+<wpt lat="47.6190333333" lon="18.8014166667">
+	<ele>290</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694-4</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Facsoport töve]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694-4]]></urlname>
+	<sym>Physical stage</sym>
+	<type><![CDATA[Physical stage]]></type>
+</wpt>
+
+<wpt lat="47.6300333333" lon="18.8168333333">
+	<ele>206</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694+Elágazás</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Kanyarodás Garancstetőre]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694+Elágazás]]></urlname>
+	<sym>Crossing</sym>
+	<type><![CDATA[Crossing]]></type>
+</wpt>
+
+<wpt lat="47.6246333333" lon="18.8160166667">
+	<ele>285</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694+1Parkolás</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Parkolóhely-1]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694+1Parkolás]]></urlname>
+	<sym>Parking Area</sym>
+	<type><![CDATA[Parking Area]]></type>
+</wpt>
+
+<wpt lat="47.62255" lon="18.8144333333">
+	<ele>285</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694+2Parkolás</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Parkolóhely-2]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694+2Parkolás]]></urlname>
+	<sym>Parking Area</sym>
+	<type><![CDATA[Parking Area]]></type>
+</wpt>
+
+<wpt lat="47.6300333333" lon="18.8168333333">
+	<ele>206</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694+1elágazás</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Kanyarodás Garancstetőre]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694+1elágazás]]></urlname>
+	<sym>Crossing</sym>
+	<type><![CDATA[Crossing]]></type>
+</wpt>
+
+<wpt lat="47.626" lon="18.81985">
+	<ele>253</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694+2Elágazás</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Kanyarodás a domb tetejére]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694+2Elágazás]]></urlname>
+	<sym>Crossing</sym>
+	<type><![CDATA[Crossing]]></type>
+</wpt>
+
+<wpt lat="47.6211833333" lon="18.8135166667">
+	<ele>285</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694+Lovaglóút</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Lovagló út keresztezése]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694+Lovaglóút]]></urlname>
+	<sym>Crossing</sym>
+	<type><![CDATA[Crossing]]></type>
+</wpt>
+
+<wpt lat="47.6157166667" lon="18.8110833333">
+	<ele>305</ele>
+	<time>2013-11-05T21:27:05Z</time>
+	<name>GCGasi-3694+Sárgaelágazás</name>
+	<cmt>3694 - 2013.11.05 21:27</cmt>
+	<desc><![CDATA[Régi sárga jelzés]]></desc>
+	<url>http://geocaching.hu/caches.geo?id=4425</url>
+	<urlname><![CDATA[GCGasi-3694+Sárgaelágazás]]></urlname>
+	<sym>Crossing</sym>
+	<type><![CDATA[Crossing]]></type>
+</wpt>
+
+</gpx>

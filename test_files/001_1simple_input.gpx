@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+<wpt lat="47.7699833333" lon="19.0753666667">
+<ele>110</ele>
+<time>2009-02-06T15:04:03Z</time>
+<name>GCCIRP-2358</name>
+<cmt>2358 - 2009.02.06 15:04</cmt>
+<desc><![CDATA[Castrum Cirpi:1.5/2.5,H,R090206,U140523]]></desc>
+<url>http://geocaching.hu/caches.geo?id=2804</url>
+<urlname><![CDATA[GCCIRP-2358]]></urlname>
+<sym>Geocache</sym>
+<type><![CDATA[Geocache]]></type>
+<groundspeak:cache id="2804" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+<groundspeak:name>Castrum Cirpi</groundspeak:name>
+<groundspeak:placed_by>eckerg, raczger</groundspeak:placed_by>
+<groundspeak:owner id="27538">eckerg [+36303343461]</groundspeak:owner>
+<groundspeak:type>Traditional Cache</groundspeak:type>
+<groundspeak:difficulty>1.5</groundspeak:difficulty>
+<groundspeak:terrain>2.5</groundspeak:terrain>
+<groundspeak:country>Pest</groundspeak:country>
+<groundspeak:long_description>&lt;i&gt;WAP: a szürke fedelű, kb. 15x15x10 cm-es ládát egy üregben találod az erőd déli sarkánál. Vigyázz a rejtek és az álca épségére! Pótjelszó a rejtekkel szemben levő fán.&lt;/i&gt;
+
+&lt;hr&gt;&lt;a href=&quot;http://www.geocaching.hu/documents.geo?id=tb&quot; target=_new&gt;&lt;img src=&quot;http://www.geocaching.hu/files/tbok.gif&quot; border=0&gt;&lt;/a&gt; A ládába TravelBug helyezhető.&lt;hr&gt;
+
+&lt;b&gt;Története:&lt;/b&gt;
+A Castrum Cirpi nevű római katonai tábor Dunabogdány déli részén, Tahitól északra helyezkedik el, a Váradok-dűlőben. Mérete 124x147 méter, falvastagsága 1,2 m. A legkorábbi castellum, egy palánktábor az I-II. század fordulóján épült, ezt a II. század közepén kőerőddé bővítették ki. Később a sarkokra legyező alakú tornyokat és patkó alakú oldaltornyokat emeltek, a IV. század végén pedig az erőd délkeleti sarkában egy kiserődöt építettek. Az erőd mellett állt a canabae, a táborváros. A Római Birodalom bukása után Cirpi helyére települt a Várad nevű falu, mely később elnéptelenedett. A területet a népnyelv &quot;Bolhavár&quot;-ként és &quot;Pusztatemplom&quot;-ként is emlegeti.
+Az erőd körvonalát még ma is jól ki lehet venni a terepen. Feltárását Szalay Ákos kezdte meg 1930-ban, azóta nem volt benne kutatás.
+(Forrás: Wikipédia)
+
+Az erődhöz a &amp;gt;coord lat=&quot;N 47° 46,317'&quot; lon=&quot;E 19° 03,549'&quot; altitude=&quot;112&quot; waypoint=&quot;segéd1&quot; icon=&quot;76&quot; description=&quot;itt kanyarodj le a földútra&quot;&amp;lt; pontnál kell elkanyarodni. A földúton a &amp;gt;coord lat=&quot;N 47° 46,504'&quot; lon=&quot;E 19° 04,015'&quot; altitude=&quot;106&quot; waypoint=&quot;segéd2&quot; icon=&quot;76&quot; description=&quot;itt fordulj jobbra&quot;&amp;lt; pontnál kell jobbra fordulni. Az út a &amp;gt;coord lat=&quot;N 47° 46,301'&quot; lon=&quot;E 19° 04,504'&quot; altitude=&quot;104&quot; waypoint=&quot;segéd3&quot; icon=&quot;76&quot; description=&quot;itt föl a dombra&quot;&amp;lt; pontig vezet, ez az erőd dombjának az alja. A domb egyáltalán nem vészes, csak néhány méterre emelkedik ki a környezetből.
+
+Az erőd a Dunapartról is megközelíthető kis vízállás esetén. A legjobb, ha csak a &amp;gt;coord lat=&quot;N 47° 46,213'&quot; lon=&quot;E 19° 04,562'&quot; altitude=&quot;104&quot; waypoint=&quot;dunáról&quot; icon=&quot;76&quot; description=&quot;ide kell jutni a partról&quot;&amp;lt; pont vonalában, a partra merőlegesen kezdesz átvágni, itt ugyanis keskenyebb az erdő, és ennél a pontnál a legkönnyebb feljutni a dombra.
+
+A ládát megtalálni nem lesz nehéz, egy fa tövében, egy üregben található az erőd déli sarkánál, mérete kb. 15x15x10 cm. &lt;b&gt;Kérünk, hogy fokozottan ügyelj a rejtek és az álca épségére!&lt;/b&gt; (Az erőd kevésbé elhagyatott, mint amilyennek elsőre tűnik.) Lehetőség szerint ne keltsd fel a fémdetektoros kincsvadászok figyelmét, bár a dombnak ezen a felén kevésbé leszel látható, mint a láda előző helyén. Ha a láda eltűnne, a pótjelszót a rejtekkel szemben levő fán találod.
+
+A ládázás után érdemes még körülnézni a dombon, elsősorban a szélein. Nem látszik túl sok falmaradvány, de ha azt látni akarod, akkor keresgélj a domb keleti és a déli sarkában; a látványosabb romokat, azaz a két látható sarokbástyát a &amp;gt;coord lat=&quot;N 47° 46,249'&quot; lon=&quot;E 19° 04,573'&quot; altitude=&quot;108&quot; waypoint=&quot;saroktorony1&quot; icon=&quot;58&quot; description=&quot;északkeleti saroktorony&quot;&amp;lt; és a &amp;gt;coord lat=&quot;N 47° 46,199'&quot; lon=&quot;E 19° 04,513'&quot; altitude=&quot;107&quot; waypoint=&quot;saroktorony2&quot; icon=&quot;58&quot; description=&quot;délkeleti saroktorony&quot;&amp;lt; pontoknál találod. Figyelem, tavasztól őszig a magas gaz miatt nehézkes lehet a mozgás a tábor területén, és vigyázz a gödrökre!
+
+A láda biciklivel is megközelíthető, de esős időben (és utána még vagy 1 hétig) hatalmas sár szokott lenni a földúton a GCCIRP+segéd2 pontig. Kánikulában, hát... az egész út a puszta közepén vezet, de az erődnél van árnyék és Duna.
+
+&lt;span style=&quot;background-color: #FF0000;&quot;&gt;NEM DRIVE-IN CACHE, mint az jobb oldalon látható is! Az út első felén traktorok járnak, 2 hét aszály után is tele van pocsolyával, ráadásul a földtulajdonosok a második felét (az első, délkelet felé forduló kanyartól) két helyen is felszántották, ezért ERŐSEN javasoljuk, hogy tedd le az autót a 11-es mellett és onnan gyalog menj! Mi szóltunk!&lt;/span&gt;
+
+&lt;u&gt;Előre szólunk, hogy az erődből - mivel nem volt rendesen feltárva - nem sok látszik, ezért feltáratlan római erődként inkább érdekes, mint szép.&lt;/u&gt; &quot;Interaktív&quot; rom, tehát a maradványok nem nagyot köszönve ugranak eléd, hanem keresgélni kell. :)
+
+Jó ládázást kívánunk!
+
+&lt;b&gt;Változások naplója&lt;/b&gt;
+2009.02.18.
+&lt;i&gt;Bejelentve a geocaching.com-on.&lt;/i&gt;
+2009.03.14.
+&lt;i&gt;Láda ellenőrizve, mindent rendben találtunk.&lt;/i&gt;
+2009.03.24.
+&lt;i&gt;Úgy tűnik, hogy a földúton mindig hatalmas sár van, emiatt felemeltem a nehézséget 1.5-ről 2-re.&lt;/i&gt;
+2009.06.06.
+&lt;i&gt;Többen szóltak, hogy nem találtak romokat, úgyhogy hamarosan kimegyünk a helyszínre és bemérjük a jelentősebb romok koordinátáit. Addig is tanulmányozzátok a képek között található térképet, rajta a látható romok helyével.&lt;/i&gt;
+2010.06.28.
+&lt;i&gt;Az árvíz alatt a láda beázott; amint időnk engedi, kitakarítjuk. A láda továbbra is kereshető; ha a jelszó olvashatatlanná ázik, akkor nyugodtan jelentsétek be jelszó nélküliként. Türelmeteket és megértéseteket kérjük.&lt;/i&gt;
+2010.09.03.
+&lt;i&gt;A láda rosszabb állapotban volt, mint gondoltuk, ezért hazavittük karbantartásra, állapotát pedig betegre állítottuk, de jelszó nélküli megtalálásokat elfogadunk.&lt;/i&gt;
+2010.11.21.
+&lt;i&gt;Az új ládát ajándékokkal feltöltve visszarejtettük. Sajnos a régi logbook teljesen szétázott, még emlékként sem lehetett visszatenni, ezért csak az új logbookot találjátok ott.&lt;/i&gt;
+2011.09.10.
+&lt;i&gt;A ládában most már az új jelszó található. A földutat kiegyengették, tehát biciklivel már teljesen jól járható, de még meghagyom a régi leírást, mert 2 hete nem esett eső. Ha eső és néhány traktor után is ilyen marad az út, akkor átírom.&lt;/i&gt;
+2012.01.02.
+&lt;i&gt;A ládából eltűnt a logbook és vele együtt a jelszó is. Hamarosan pótoljuk, addig is jelszó nélküli megtalálásokat elfogadunk.&lt;/i&gt;
+2012.03.03
+&lt;i&gt;A ládát a biztonság kedvéért új helyre rejtettük, és pótjelszót is kitettünk.&lt;/i&gt;</groundspeak:long_description>
+<groundspeak:logs>
+<groundspeak:log id="1289348">
+<groundspeak:date>2014-05-23T14:11:00</groundspeak:date>
+<groundspeak:finder id="53154">picuresnagyur</groundspeak:finder>
+<groundspeak:text encoded="False">köszi, a túlburjánzó vegetáció miatt szívás volt :) a romok elbújtak :) az út viszont nem volt sáros legalább :)</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1233582">
+<groundspeak:date>2013-12-11T00:00:00</groundspeak:date>
+<groundspeak:finder id="34605">TücsiGuy</groundspeak:finder>
+<groundspeak:text encoded="False">Már többször elmentünk mellette. Most elszántuk magunkat és a szántókon keresztül közelítettük meg. A végén a cipőnkre több kilónyi agyag került.</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1233425">
+<groundspeak:date>2013-11-24T14:00:00</groundspeak:date>
+<groundspeak:finder id="1912">vaslemez</groundspeak:finder>
+<groundspeak:text encoded="False">Jó nagyot jártunk a szántók szélén és -ban, épp hogy sikerült. Kár, hogy látni nem sok mindent lehet.</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1228216">
+<groundspeak:date>2013-11-16T12:23:00</groundspeak:date>
+<groundspeak:finder id="3561">esztelneki</groundspeak:finder>
+<groundspeak:text encoded="False">Bringával Megtaláltam. Köszönöm a rejtést! [g:hu 1.4.29] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1216500">
+<groundspeak:date>2013-10-23T00:00:00</groundspeak:date>
+<groundspeak:finder id="35533">Gabro</groundspeak:finder>
+<groundspeak:text encoded="False">:-)</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1213452">
+<groundspeak:date>2013-10-19T13:05:00</groundspeak:date>
+<groundspeak:finder id="69637">benyos</groundspeak:finder>
+<groundspeak:text encoded="False">Köszönjük!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1233360">
+<groundspeak:date>2013-09-22T15:37:00</groundspeak:date>
+<groundspeak:finder id="17313">Petra</groundspeak:finder>
+<groundspeak:text encoded="False">Köszönöm :)</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1204218">
+<groundspeak:date>2013-09-22T15:37:00</groundspeak:date>
+<groundspeak:finder id="34305">Attil@</groundspeak:finder>
+<groundspeak:text encoded="False">Kerékpárral amíg lehetett... utána gyalog. A láda Petra 300-dik ládája, ha rendesen logol :).
+Köszönjük a rejtést!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1202978">
+<groundspeak:date>2013-09-21T09:30:00</groundspeak:date>
+<groundspeak:finder id="57575">Crowngu@rd</groundspeak:finder>
+<groundspeak:text encoded="False">Szerencsére jó darabig be tudtunk menni autóval, Lézernek köszönhetően. Köszönöm!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1202956">
+<groundspeak:date>2013-09-21T09:30:00</groundspeak:date>
+<groundspeak:finder id="60829">Lézer&amp;Baby</groundspeak:finder>
+<groundspeak:text encoded="False">Köszi a rejtést!</groundspeak:text>
+</groundspeak:log>
+</groundspeak:logs>
+</groundspeak:cache>
+</wpt>
+
+<wpt lat="47.77195" lon="19.05915">
+<ele>112</ele>
+<time>2009-02-06T15:04:03Z</time>
+<name>GCCIRP-2358+segéd1</name>
+<cmt>2358 - 2009.02.06 15:04</cmt>
+<desc><![CDATA[itt kanyarodj le a földútra]]></desc>
+<url>http://geocaching.hu/caches.geo?id=2804</url>
+<urlname><![CDATA[GCCIRP-2358+segéd1]]></urlname>
+<sym>Dot</sym>
+<type><![CDATA[Dot]]></type>
+</wpt>
+
+<wpt lat="47.7750666667" lon="19.0669166667">
+<ele>106</ele>
+<time>2009-02-06T15:04:03Z</time>
+<name>GCCIRP-2358+segéd2</name>
+<cmt>2358 - 2009.02.06 15:04</cmt>
+<desc><![CDATA[itt fordulj jobbra]]></desc>
+<url>http://geocaching.hu/caches.geo?id=2804</url>
+<urlname><![CDATA[GCCIRP-2358+segéd2]]></urlname>
+<sym>Dot</sym>
+<type><![CDATA[Dot]]></type>
+</wpt>
+
+<wpt lat="47.7716833333" lon="19.0750666667">
+<ele>104</ele>
+<time>2009-02-06T15:04:03Z</time>
+<name>GCCIRP-2358+segéd3</name>
+<cmt>2358 - 2009.02.06 15:04</cmt>
+<desc><![CDATA[itt föl a dombra]]></desc>
+<url>http://geocaching.hu/caches.geo?id=2804</url>
+<urlname><![CDATA[GCCIRP-2358+segéd3]]></urlname>
+<sym>Dot</sym>
+<type><![CDATA[Dot]]></type>
+</wpt>
+
+<wpt lat="47.7702166667" lon="19.0760333333">
+<ele>104</ele>
+<time>2009-02-06T15:04:03Z</time>
+<name>GCCIRP-2358+dunáról</name>
+<cmt>2358 - 2009.02.06 15:04</cmt>
+<desc><![CDATA[ide kell jutni a partról]]></desc>
+<url>http://geocaching.hu/caches.geo?id=2804</url>
+<urlname><![CDATA[GCCIRP-2358+dunáról]]></urlname>
+<sym>Dot</sym>
+<type><![CDATA[Dot]]></type>
+</wpt>
+
+<wpt lat="47.7708166667" lon="19.0762166667">
+<ele>108</ele>
+<time>2009-02-06T15:04:03Z</time>
+<name>GCCIRP-2358+saroktorony1</name>
+<cmt>2358 - 2009.02.06 15:04</cmt>
+<desc><![CDATA[északkeleti saroktorony]]></desc>
+<url>http://geocaching.hu/caches.geo?id=2804</url>
+<urlname><![CDATA[GCCIRP-2358+saroktorony1]]></urlname>
+<sym>Scenic Area</sym>
+<type><![CDATA[Scenic Area]]></type>
+</wpt>
+
+<wpt lat="47.7699833333" lon="19.0752166667">
+<ele>107</ele>
+<time>2009-02-06T15:04:03Z</time>
+<name>GCCIRP-2358+saroktorony2</name>
+<cmt>2358 - 2009.02.06 15:04</cmt>
+<desc><![CDATA[délkeleti saroktorony]]></desc>
+<url>http://geocaching.hu/caches.geo?id=2804</url>
+<urlname><![CDATA[GCCIRP-2358+saroktorony2]]></urlname>
+<sym>Dot</sym>
+<type><![CDATA[Scenic Area]]></type>
+</wpt>
+
+</gpx>

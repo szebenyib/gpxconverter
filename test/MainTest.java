@@ -18,7 +18,11 @@ public class MainTest {
 
 	@Before
 	public void setUp() {
-		File folder = new File(System.getProperty("user.dir"));
+		File folder = new File(System.getProperty("user.dir") +
+				System.getProperty("file.separator") +
+				"gpxconverter" +
+				System.getProperty("file.separator") +
+				"test_files");
 		FilenameFilter inputFilesFilter = new FilenameFilter() {
 			@Override
 			public boolean accept(File dir, String name) {
@@ -80,12 +84,14 @@ public class MainTest {
 				fis = new FileInputStream(this.gpxGoodOutputFiles[i]);
 				dis = new DigestInputStream(fis, md);
 				buffer = new byte[8192];
+				//noinspection StatementWithEmptyBody
 				while (dis.read(buffer) > -1);
 				expectedHash = md.digest();
 
 				fis = new FileInputStream(gpxCreatedFilesToTest[i]);
 				dis = new DigestInputStream(fis, md);
 				buffer = new byte[8192];
+				//noinspection StatementWithEmptyBody
 				while (dis.read(buffer) > -1);
 				actualHash = md.digest();
 				assertArrayEquals("Files differ at: " + this
