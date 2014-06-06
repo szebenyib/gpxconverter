@@ -1,5 +1,3 @@
-import org.apache.commons.lang3.StringUtils;
-
 import java.util.ArrayList;
 import java.util.List;
 
@@ -187,9 +185,10 @@ public class Geocache extends Waypoint {
 	 * @return The escaped string
 	 */
 	private String escapeChars(String str) {
-		str = StringUtils.replaceEach(
-				str, new String[]{"&", "\"", "<", ">"},
-				new String[]{"&amp;", "&quot;", "&lt;", "&gt;"});
+		str = str.replaceAll("&", "&amp;");
+		str = str.replaceAll("\"", "&quot;");
+		str = str.replaceAll("<", "&lt;");
+		str = str.replaceAll(">", "&gt;");
 		return str;
 	}
 

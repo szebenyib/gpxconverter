@@ -1,5 +1,3 @@
-import org.apache.commons.lang3.StringUtils;
-
 /**
  * Created by Balint Szebenyi on 2014.05.30..
  * Stores the individual logs and creates a gpx text for them.
@@ -76,9 +74,10 @@ public class Log {
 	 * @return The escaped string
 	 */
 	private String escapeChars(String str) {
-		str = StringUtils.replaceEach(
-				str, new String[]{"&", "\"", "<", ">"},
-				new String[]{"&amp;", "&quot;", "&lt;", "&gt;"});
+		str = str.replaceAll("&", "&amp;");
+		str = str.replaceAll("\"", "&quot;");
+		str = str.replaceAll("<", "&lt;");
+		str = str.replaceAll(">", "&gt;");
 		return str;
 	}
 
