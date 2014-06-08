@@ -148,7 +148,7 @@ public class Geocache extends Waypoint {
 				"xmlns:groundspeak=\"" +
 				this.groundspeakCacheAxmlns + "\">\n" +
 				"\t\t<groundspeak:name>" +
-				this.groundspeakName +
+				escapeChars(this.groundspeakName) +
 				"</groundspeak:name>\n" +
 				"\t\t<groundspeak:placed_by>" +
 				escapeChars(this.groundspeakPlaced_by) +
