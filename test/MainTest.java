@@ -40,7 +40,7 @@ public class MainTest {
 		assertTrue("No gpx input files found! Please create some.",
 				this.gpxInputFiles.length > 0);
 		assertTrue("No gpx output files found! (Or not as many as input files" +
-				".) Please check them.",
+						".) Please check them.",
 				this.gpxInputFiles.length == this.gpxGoodOutputFiles.length);
 	}
 
@@ -67,7 +67,7 @@ public class MainTest {
 		gpxCreatedFilesToTest = new File[this.gpxInputFiles.length];
 		for (int i = 0; i < this.gpxInputFiles.length; i++) {
 			System.out.println("Processing: " +
-			this.gpxInputFiles[i].toString());
+					this.gpxInputFiles[i].toString());
 			gpxProcessor.setInputFile(this.gpxInputFiles[i]);
 			geocachesArrayList = gpxProcessor.readFileToGeocacheList();
 			gpxCreatedFilesToTest[i] = gpxProcessor.
@@ -80,22 +80,27 @@ public class MainTest {
 		try {
 			for (int i = 0; i < this.gpxInputFiles.length; i++) {
 
+				System.out.println("Comparing: " +
+						this.gpxInputFiles[i].toString());
 				fis = new FileInputStream(this.gpxGoodOutputFiles[i]);
 				dis = new DigestInputStream(fis, md);
 				buffer = new byte[8192];
 				//noinspection StatementWithEmptyBody
-				while (dis.read(buffer) > -1);
+				while (dis.read(buffer) > -1) ;
 				expectedHash = md.digest();
 
 				fis = new FileInputStream(gpxCreatedFilesToTest[i]);
 				dis = new DigestInputStream(fis, md);
 				buffer = new byte[8192];
 				//noinspection StatementWithEmptyBody
-				while (dis.read(buffer) > -1);
+				while (dis.read(buffer) > -1) ;
 				actualHash = md.digest();
 				assertArrayEquals("Files differ at: " + this
 								.gpxGoodOutputFiles[i].getName(),
 						expectedHash, actualHash);
+
+				System.out.println("Done: " +
+						this.gpxInputFiles[i].toString());
 			}
 		} catch (Exception e) {
 			System.out.println(e.getMessage());
