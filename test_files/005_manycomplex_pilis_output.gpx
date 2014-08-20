@@ -1639,7 +1639,7 @@ Köszönjük.</groundspeak:text>
 </wpt>
 
 <wpt lat="47.7141333333" lon="18.7805333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2012-09-12T21:20:48Z</time>
 	<name>GCKest-3396+1parkoló</name>
 	<cmt>3396 - 2012.09.12 21:20</cmt>
@@ -1651,7 +1651,7 @@ Köszönjük.</groundspeak:text>
 </wpt>
 
 <wpt lat="47.7118" lon="18.7827833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2012-09-12T21:20:48Z</time>
 	<name>GCKest-3396+2parkoló</name>
 	<cmt>3396 - 2012.09.12 21:20</cmt>
@@ -1951,7 +1951,7 @@ Visegrád, a Fellegvár és Nagyvillám a sok természeti, kulturális és tört
 </wpt>
 
 <wpt lat="47.7938333333" lon="18.9741833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2011-11-26T11:04:00Z</time>
 	<name>GCGorg-3120+Parkoló</name>
 	<cmt>3120 - 2011.11.26 11:04</cmt>
@@ -4222,7 +4222,7 @@ Béka, Bütyök, Orsi, Lala, Anti</groundspeak:text>
 </wpt>
 
 <wpt lat="47.6285833333" lon="18.8323666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2009-08-28T21:03:39Z</time>
 	<name>GCPGom-2573+parkoló</name>
 	<cmt>2573 - 2009.08.28 21:03</cmt>
@@ -4311,7 +4311,7 @@ Jó utat, és gazdag élményeket kíván: Piroskaa1 &amp; Blue Mali
 </wpt>
 
 <wpt lat="47.81285" lon="18.81225">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2009-08-25T01:41:31Z</time>
 	<name>GCFari-2564+parkoló</name>
 	<cmt>2564 - 2009.08.25 01:41</cmt>
@@ -4569,7 +4569,7 @@ A ládával kapcsolatosan:
 </wpt>
 
 <wpt lat="47.7172833333" lon="19.0884166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2009-05-19T01:50:19Z</time>
 	<name>GCKErs-2435-2</name>
 	<cmt>2435 - 2009.05.19 01:50</cmt>
@@ -4581,7 +4581,7 @@ A ládával kapcsolatosan:
 </wpt>
 
 <wpt lat="47.7977666667" lon="19.0265166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2009-05-19T01:50:19Z</time>
 	<name>GCKErs-2435-3</name>
 	<cmt>2435 - 2009.05.19 01:50</cmt>
@@ -4593,7 +4593,7 @@ A ládával kapcsolatosan:
 </wpt>
 
 <wpt lat="47.7837333333" lon="18.8755666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2009-05-19T01:50:19Z</time>
 	<name>GCKErs-2435-4</name>
 	<cmt>2435 - 2009.05.19 01:50</cmt>
@@ -5645,7 +5645,7 @@ A ládához múlt héten mentem, de nincs meg! [g:hu 1.5.0s] [wapon beküldött 
 </wpt>
 
 <wpt lat="47.7133833333" lon="19.08695">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2009-01-26T11:46:34Z</time>
 	<name>GCLfal-2352</name>
 	<cmt>2352 - 2009.01.26 11:46</cmt>
@@ -5733,7 +5733,7 @@ Jó a dunaparti sétány is, a Duna most elég magas.</groundspeak:text>
 </wpt>
 
 <wpt lat="47.7166833333" lon="19.0869833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2009-01-26T11:46:34Z</time>
 	<name>GCLfal-2352-2</name>
 	<cmt>2352 - 2009.01.26 11:46</cmt>
@@ -8609,7 +8609,7 @@ Az első pont igen csak nehezen lett meg, a második viszont könnyen. Jó a rej
 </wpt>
 
 <wpt lat="47.7524833333" lon="19.0710333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-12-28T16:04:18Z</time>
 	<name>GCHID-1106+szüreti ház</name>
 	<cmt>1106 - 2004.12.28 16:04</cmt>
@@ -8621,7 +8621,7 @@ Az első pont igen csak nehezen lett meg, a második viszont könnyen. Jó a rej
 </wpt>
 
 <wpt lat="47.7479833333" lon="19.0951833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-12-28T16:04:18Z</time>
 	<name>GCHID-1106+temető</name>
 	<cmt>1106 - 2004.12.28 16:04</cmt>
@@ -8633,7 +8633,7 @@ Az első pont igen csak nehezen lett meg, a második viszont könnyen. Jó a rej
 </wpt>
 
 <wpt lat="47.7535" lon="19.09135">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-12-28T16:04:18Z</time>
 	<name>GCHID-1106+templom</name>
 	<cmt>1106 - 2004.12.28 16:04</cmt>
@@ -8645,7 +8645,7 @@ Az első pont igen csak nehezen lett meg, a második viszont könnyen. Jó a rej
 </wpt>
 
 <wpt lat="47.7554166667" lon="19.0882333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-12-28T16:04:18Z</time>
 	<name>GCHID-1106+templom2</name>
 	<cmt>1106 - 2004.12.28 16:04</cmt>
@@ -8657,7 +8657,7 @@ Az első pont igen csak nehezen lett meg, a második viszont könnyen. Jó a rej
 </wpt>
 
 <wpt lat="47.7753" lon="19.1199833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-12-28T16:04:18Z</time>
 	<name>GCHID-1106+étterem</name>
 	<cmt>1106 - 2004.12.28 16:04</cmt>
@@ -8669,7 +8669,7 @@ Az első pont igen csak nehezen lett meg, a második viszont könnyen. Jó a rej
 </wpt>
 
 <wpt lat="47.7545666667" lon="19.0888333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-12-28T16:04:18Z</time>
 	<name>GCHID-1106+Hősi emlékmű</name>
 	<cmt>1106 - 2004.12.28 16:04</cmt>
@@ -8750,7 +8750,7 @@ Kada utcai ált isk zászló nagyon tetszett :)</groundspeak:text>
 </wpt>
 
 <wpt lat="47.5877333333" lon="19.1104166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-11-20T14:54:02Z</time>
 	<name>GCROSS-1095+Erdei iskola</name>
 	<cmt>1095 - 2004.11.20 14:54</cmt>
@@ -8762,7 +8762,7 @@ Kada utcai ált isk zászló nagyon tetszett :)</groundspeak:text>
 </wpt>
 
 <wpt lat="47.5891333333" lon="19.1131833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-11-20T14:54:02Z</time>
 	<name>GCROSS-1095+Erdei óvoda</name>
 	<cmt>1095 - 2004.11.20 14:54</cmt>
@@ -8774,7 +8774,7 @@ Kada utcai ált isk zászló nagyon tetszett :)</groundspeak:text>
 </wpt>
 
 <wpt lat="47.5912333333" lon="19.1135">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-11-20T14:54:02Z</time>
 	<name>GCROSS-1095+Tanösvény vége</name>
 	<cmt>1095 - 2004.11.20 14:54</cmt>
@@ -8786,7 +8786,7 @@ Kada utcai ált isk zászló nagyon tetszett :)</groundspeak:text>
 </wpt>
 
 <wpt lat="47.5899166667" lon="19.1112666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-11-20T14:54:02Z</time>
 	<name>GCROSS-1095+Erdei sportpálya</name>
 	<cmt>1095 - 2004.11.20 14:54</cmt>
@@ -8798,7 +8798,7 @@ Kada utcai ált isk zászló nagyon tetszett :)</groundspeak:text>
 </wpt>
 
 <wpt lat="47.5874166667" lon="19.1030666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-11-20T14:54:02Z</time>
 	<name>GCROSS-1095+REX</name>
 	<cmt>1095 - 2004.11.20 14:54</cmt>
@@ -8810,7 +8810,7 @@ Kada utcai ált isk zászló nagyon tetszett :)</groundspeak:text>
 </wpt>
 
 <wpt lat="47.5903" lon="19.1187833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-11-20T14:54:02Z</time>
 	<name>GCROSS-1095+Astra Zeneca</name>
 	<cmt>1095 - 2004.11.20 14:54</cmt>
@@ -9068,7 +9068,7 @@ A láda megközelíthető a Fellegvár felől, az OKT jelzésen Visegrád felé 
 </wpt>
 
 <wpt lat="47.6649833333" lon="19.0760166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9185,7 +9185,7 @@ Kedves rejtő! Ez a szép multi megérdemelné a karbantartást, konkrétan a v�
 </wpt>
 
 <wpt lat="47.6668333333" lon="19.0756166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026-2</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9197,7 +9197,7 @@ Kedves rejtő! Ez a szép multi megérdemelné a karbantartást, konkrétan a v�
 </wpt>
 
 <wpt lat="47.66775" lon="19.07655">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026-3</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9209,7 +9209,7 @@ Kedves rejtő! Ez a szép multi megérdemelné a karbantartást, konkrétan a v�
 </wpt>
 
 <wpt lat="47.6680833333" lon="19.0755833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026-4</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9221,7 +9221,7 @@ Kedves rejtő! Ez a szép multi megérdemelné a karbantartást, konkrétan a v�
 </wpt>
 
 <wpt lat="47.66875" lon="19.0737166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026-5</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9233,7 +9233,7 @@ Kedves rejtő! Ez a szép multi megérdemelné a karbantartást, konkrétan a v�
 </wpt>
 
 <wpt lat="47.66875" lon="19.0757833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026-6</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9245,7 +9245,7 @@ Kedves rejtő! Ez a szép multi megérdemelné a karbantartást, konkrétan a v�
 </wpt>
 
 <wpt lat="47.6712" lon="19.0781666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026-7</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9257,7 +9257,7 @@ Kedves rejtő! Ez a szép multi megérdemelné a karbantartást, konkrétan a v�
 </wpt>
 
 <wpt lat="47.6763666667" lon="19.0619">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026+segédpont</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9269,7 +9269,7 @@ Kedves rejtő! Ez a szép multi megérdemelné a karbantartást, konkrétan a v�
 </wpt>
 
 <wpt lat="47.6654333333" lon="19.0758333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026+ráadás templom</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9281,7 +9281,7 @@ Kedves rejtő! Ez a szép multi megérdemelné a karbantartást, konkrétan a v�
 </wpt>
 
 <wpt lat="47.66865" lon="19.0764166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-08-02T08:20:12Z</time>
 	<name>GCTplm-1026+zsinagóga</name>
 	<cmt>1026 - 2004.08.02 08:20</cmt>
@@ -9379,7 +9379,7 @@ Két héttel ezelőtt kerestem fel az omszki tónál lévő pontot most pedig a 
 </wpt>
 
 <wpt lat="47.6187166667" lon="19.0886666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-06-30T18:30:00Z</time>
 	<name>GCOmsz-1004-2</name>
 	<cmt>1004 - 2004.06.30 18:30</cmt>
@@ -10311,7 +10311,7 @@ Sinus90
 </wpt>
 
 <wpt lat="47.6940166667" lon="18.9017333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-01-18T12:30:00Z</time>
 	<name>GCmkut-829+parkoló</name>
 	<cmt>829 - 2004.01.18 12:30</cmt>
@@ -10323,7 +10323,7 @@ Sinus90
 </wpt>
 
 <wpt lat="47.6945166667" lon="18.9163833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2004-01-18T12:30:00Z</time>
 	<name>GCmkut-829+forrás</name>
 	<cmt>829 - 2004.01.18 12:30</cmt>
@@ -10658,7 +10658,7 @@ Nagyon szép kis hely. Odafele a Dunán a vízben átkelve mentem oda, visszafel
 </wpt>
 
 <wpt lat="47.6857166667" lon="19.1288666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2003-11-04T13:39:00Z</time>
 	<name>GChszg-779+parkoló</name>
 	<cmt>779 - 2003.11.04 13:39</cmt>
@@ -10670,7 +10670,7 @@ Nagyon szép kis hely. Odafele a Dunán a vízben átkelve mentem oda, visszafel
 </wpt>
 
 <wpt lat="47.6893333333" lon="19.1286833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2003-11-04T13:39:00Z</time>
 	<name>GChszg-779+déli átjáró</name>
 	<cmt>779 - 2003.11.04 13:39</cmt>
@@ -10682,7 +10682,7 @@ Nagyon szép kis hely. Odafele a Dunán a vízben átkelve mentem oda, visszafel
 </wpt>
 
 <wpt lat="47.69375" lon="19.1295833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2003-11-04T13:39:00Z</time>
 	<name>GChszg-779+északi átjáró</name>
 	<cmt>779 - 2003.11.04 13:39</cmt>
@@ -11432,7 +11432,7 @@ Köszönjük a rejtést!</groundspeak:text>
 </wpt>
 
 <wpt lat="47.7229833333" lon="18.8894166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2003-03-30T10:30:00Z</time>
 	<name>GCDko-536+tartalék</name>
 	<cmt>536 - 2003.03.30 10:30</cmt>
@@ -11456,7 +11456,7 @@ Köszönjük a rejtést!</groundspeak:text>
 </wpt>
 
 <wpt lat="47.7232666667" lon="18.8911666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2003-03-30T10:30:00Z</time>
 	<name>GCDko-536+Rezső-kilátó</name>
 	<cmt>536 - 2003.03.30 10:30</cmt>
@@ -11468,7 +11468,7 @@ Köszönjük a rejtést!</groundspeak:text>
 </wpt>
 
 <wpt lat="47.7200833333" lon="18.8990333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2003-03-30T10:30:00Z</time>
 	<name>GCDko-536+Dobogókő-kilátó</name>
 	<cmt>536 - 2003.03.30 10:30</cmt>
@@ -11892,7 +11892,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7318" lon="18.8291">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-11-01T11:00:00Z</time>
 	<name>GCFszi-451+leágazás</name>
 	<cmt>451 - 2002.11.01 11:00</cmt>
@@ -11904,7 +11904,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7285666667" lon="18.8422333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-11-01T11:00:00Z</time>
 	<name>GCFszi-451+parkoló</name>
 	<cmt>451 - 2002.11.01 11:00</cmt>
@@ -11976,7 +11976,7 @@ December 7.-én tartunk egy általános iskolai osztálytalálkozót, és arra k
 </wpt>
 
 <wpt lat="47.7183666667" lon="19.0068">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-09-19T11:00:00Z</time>
 	<name>GCAszt-423+parkoló</name>
 	<cmt>423 - 2002.09.19 11:00</cmt>
@@ -12119,7 +12119,7 @@ A Kopár csárdától kényelmes sétával 1.5-2 óra alatt megjártuk.</grounds
 </wpt>
 
 <wpt lat="47.6327333333" lon="18.86545">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-08-11T09:30:00Z</time>
 	<name>GCSASS-371+Esőbeálló</name>
 	<cmt>371 - 2002.08.11 09:30</cmt>
@@ -12131,7 +12131,7 @@ A Kopár csárdától kényelmes sétával 1.5-2 óra alatt megjártuk.</grounds
 </wpt>
 
 <wpt lat="47.63425" lon="18.8641">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-08-11T09:30:00Z</time>
 	<name>GCSASS-371+Leágazás</name>
 	<cmt>371 - 2002.08.11 09:30</cmt>
@@ -12221,7 +12221,7 @@ A kilátás csodálatos</groundspeak:text>
 </wpt>
 
 <wpt lat="47.7204" lon="18.8503833333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-08-10T12:00:00Z</time>
 	<name>GCfeko-364+parkoló</name>
 	<cmt>364 - 2002.08.10 12:00</cmt>
@@ -12390,7 +12390,7 @@ Bubuka		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7859" lon="18.95495">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-07-13T10:00:00Z</time>
 	<name>GCdomo-321+parkoló</name>
 	<cmt>321 - 2002.07.13 10:00</cmt>
@@ -12402,7 +12402,7 @@ Bubuka		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7712333333" lon="18.9197666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-07-13T10:00:00Z</time>
 	<name>GCdomo-321+barlang</name>
 	<cmt>321 - 2002.07.13 10:00</cmt>
@@ -13532,7 +13532,7 @@ Mathau pótolta a ládát, köszönet érte!		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7318" lon="18.8291">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-04-20T15:00:00Z</time>
 	<name>GCHIRS-199+leágazás</name>
 	<cmt>199 - 2002.04.20 15:00</cmt>
@@ -13544,7 +13544,7 @@ Mathau pótolta a ládát, köszönet érte!		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7285666667" lon="18.8422333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-04-20T15:00:00Z</time>
 	<name>GCHIRS-199+parkoló</name>
 	<cmt>199 - 2002.04.20 15:00</cmt>
@@ -13709,7 +13709,7 @@ Köszönjük a rejtést.</groundspeak:text>
 </wpt>
 
 <wpt lat="47.7616666667" lon="18.91315">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-04-06T17:30:00Z</time>
 	<name>GCRAM-185+parkoló</name>
 	<cmt>185 - 2002.04.06 17:30</cmt>
@@ -14266,7 +14266,7 @@ ___________________________________________________
 </wpt>
 
 <wpt lat="47.5932833333" lon="18.9475333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-30T13:40:00Z</time>
 	<name>GCSOLY-158+kőhíd</name>
 	<cmt>158 - 2002.03.30 13:40</cmt>
@@ -14486,7 +14486,7 @@ Köszönöm Pilis50-nek az újratelepítést (2008.04.04).		</groundspeak:long_d
 </wpt>
 
 <wpt lat="47.7964" lon="18.7347166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14562,7 +14562,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.8" lon="18.7351166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134-2</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14574,7 +14574,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7990833333" lon="18.7382166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134-3</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14586,7 +14586,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7967833333" lon="18.74065">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134-4</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14598,7 +14598,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7954833333" lon="18.7417666667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134-5</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14610,7 +14610,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7943833333" lon="18.74385">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134-6</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14622,7 +14622,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7930833333" lon="18.7417166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134-7</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14634,7 +14634,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7917333333" lon="18.7398166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134-8</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14646,7 +14646,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7953" lon="18.7300166667">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134-9</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14658,7 +14658,7 @@ snake		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7950666667" lon="18.7335">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T12:00:00Z</time>
 	<name>GCEGOM-134+parkoló</name>
 	<cmt>134 - 2002.03.17 12:00</cmt>
@@ -14749,7 +14749,7 @@ Az amúgy is vízálló doboz nagyjából vízmentes, szellős helyre van rejtve
 </wpt>
 
 <wpt lat="47.6993833333" lon="18.75845">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T10:00:00Z</time>
 	<name>GCKLAS-133+leágazás</name>
 	<cmt>133 - 2002.03.17 10:00</cmt>
@@ -14761,7 +14761,7 @@ Az amúgy is vízálló doboz nagyjából vízmentes, szellős helyre van rejtve
 </wpt>
 
 <wpt lat="47.7012" lon="18.8350333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-17T10:00:00Z</time>
 	<name>GCKLAS-133+parkoló</name>
 	<cmt>133 - 2002.03.17 10:00</cmt>
@@ -14843,7 +14843,7 @@ Anikó és Miki		</groundspeak:long_description>
 </wpt>
 
 <wpt lat="47.7616833333" lon="18.9131333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-03-08T14:38:00Z</time>
 	<name>GCSzek-113+Parkolo1</name>
 	<cmt>113 - 2002.03.08 14:38</cmt>
@@ -15001,7 +15001,7 @@ Köszönjük!</groundspeak:text>
 </wpt>
 
 <wpt lat="47.7490666667" lon="18.7378333333">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-02-09T13:00:00Z</time>
 	<name>GCstra-085+parkoló</name>
 	<cmt>085 - 2002.02.09 13:00</cmt>
@@ -15071,7 +15071,7 @@ Köszi a rejtést!</groundspeak:text>
 </wpt>
 
 <wpt lat="47.8040166667" lon="18.7507">
-	<ele>null</ele>
+	<ele>0</ele>
 	<time>2002-02-09T09:00:00Z</time>
 	<name>GCvasi-083+leágazás</name>
 	<cmt>083 - 2002.02.09 09:00</cmt>

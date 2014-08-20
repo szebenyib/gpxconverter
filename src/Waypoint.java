@@ -152,9 +152,13 @@ public class Waypoint {
 	 */
 	public String getGeneralGPXPart(boolean waypointOnly) {
 		String str = "<wpt lat=\"" + this.wptALat + "\" " +
-				"lon=\"" + this.wptALon + "\">\n" +
-				"\t<ele>" + this.ele + "</ele>\n" +
-				"\t<time>" + this.time + "</time>\n" +
+				"lon=\"" + this.wptALon + "\">\n";
+		if (this.ele == null) {
+			str += "\t<ele>" + 0 + "</ele>\n";
+		} else {
+			str += "\t<ele>" + this.ele + "</ele>\n";
+		}
+		str += "\t<time>" + this.time + "</time>\n" +
 				"\t<name>" + this.name + "</name>\n" +
 				"\t<cmt>" + this.cmt + "</cmt>\n" +
 				"\t<desc><![CDATA[" +
