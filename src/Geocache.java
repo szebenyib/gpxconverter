@@ -105,6 +105,10 @@ public class Geocache extends Waypoint {
 		this.groundspeakOwner = groundspeakOwner;
 	}
 
+	public String getGroundspeakType(){
+		return this.groundspeakType;
+	}
+
 	public void setGroundspeakType(String groundspeakType) {
 		this.groundspeakType = groundspeakType;
 	}

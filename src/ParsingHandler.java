@@ -228,8 +228,12 @@ public class ParsingHandler extends DefaultHandler {
 				this.currentGeocache
 						.setGroundspeakOwner(this.sb.toString());
 			} else if (qName.equalsIgnoreCase("GROUNDSPEAK:TYPE")) {
-				this.currentGeocache
-						.setGroundspeakType(this.sb.toString());
+				//Logs started to have a groundspeak:type,
+				//by adding this it won't overwrite the geocache's type
+				if (this.currentGeocache.getGroundspeakType() == null) {
+					this.currentGeocache
+							.setGroundspeakType(this.sb.toString());
+				}
 			} else if (qName.equalsIgnoreCase("GROUNDSPEAK:DIFFICULTY")) {
 				this.currentGeocache
 						.setGroundspeakDifficulty(this.sb.toString());
