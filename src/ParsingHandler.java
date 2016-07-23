@@ -251,6 +251,8 @@ public class ParsingHandler extends DefaultHandler {
 			//Processing individual logs
 			if (qName.equalsIgnoreCase("GROUNDSPEAK:DATE")) {
 				this.currentLog.setLogDate(this.sb.toString());
+			} else if (qName.equalsIgnoreCase("GROUNDSPEAK:TYPE")) {
+				this.currentLog.setLogType(this.sb.toString());
 			} else if (qName.equalsIgnoreCase("GROUNDSPEAK:FINDER")) {
 				this.currentLog.setLogFinderName(this.sb.toString());
 			} else if (qName.equalsIgnoreCase("GROUNDSPEAK:TEXT")) {

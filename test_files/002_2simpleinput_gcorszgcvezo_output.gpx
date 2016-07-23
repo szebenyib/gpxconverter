@@ -62,88 +62,105 @@ Sok sikert, szép élményeket kívánok!		</groundspeak:long_description>
 		<groundspeak:logs>
 			<groundspeak:log id="1555436">
 				<groundspeak:date>2016-07-08T16:19:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="83012">S-A</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltuk. Köszönjük a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1552655">
 				<groundspeak:date>2016-07-01T15:08:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="94807">zsufi8</groundspeak:finder>
 				<groundspeak:text encoded="False">Megvan! [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1548972">
 				<groundspeak:date>2016-06-19T16:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="12727">pandala</groundspeak:finder>
 				<groundspeak:text encoded="False">Leleplezve! [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1548510">
 				<groundspeak:date>2016-06-18T11:26:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="90994">Mozso1</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszönjük :)</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1548787">
 				<groundspeak:date>2016-06-18T10:30:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="94942">taczmana</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszi a rejtést! :)</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1548269">
 				<groundspeak:date>2016-06-17T20:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="46521">Ancs</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszi, részletek később :) [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1547531">
 				<groundspeak:date>2016-06-13T09:22:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="54470">braunfrici</groundspeak:finder>
 				<groundspeak:text encoded="False">Megvagy!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1547080">
 				<groundspeak:date>2016-06-12T17:30:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="61706">atti92</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1547084">
 				<groundspeak:date>2016-06-12T15:08:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="90000">Scarlet</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1545394">
 				<groundspeak:date>2016-06-05T10:28:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="93967">ziziperec</groundspeak:finder>
 				<groundspeak:text encoded="False">Megvan! Köszi!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1545719">
 				<groundspeak:date>2016-06-05T10:27:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="93952">szekat</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszi!Megvan!
 TFTC</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1544616">
 				<groundspeak:date>2016-06-04T18:24:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="89593">Arian</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1544684">
 				<groundspeak:date>2016-06-04T11:30:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="34786">Mo-Hó</groundspeak:finder>
 				<groundspeak:text encoded="False">Meglett.
 Köszi a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1542831">
 				<groundspeak:date>2016-05-29T16:30:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="91501">Krida</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltuk:)Köszönjük szépen!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1542819">
 				<groundspeak:date>2016-05-29T15:30:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="71980">Vidágyi</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltuk:)</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1542077">
 				<groundspeak:date>2016-05-28T11:20:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="8827">Murmogoek</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltuk. Köszönjük a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1540649">
 				<groundspeak:date>2016-05-22T13:11:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="43775">Balear</groundspeak:finder>
 				<groundspeak:text encoded="False">Buda Bércein TT alatt még csak letérnünk sem kellett az ösvényről. Már régóta listás láda, Kincső találta meg végül :)
 
@@ -153,6 +170,7 @@ Kincső és Csabi</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1539943">
 				<groundspeak:date>2016-05-22T13:10:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="88227">kincs92</groundspeak:finder>
 				<groundspeak:text encoded="False">Buda Bércein TT alatt :) Egyszer már majdnem megkerestük ezt a ládát, azonban szerencse hogy eddig vártunk vele, mert most pont útba esett. Korábban nehezített terepen akartuk megközelíteni :D Érdemes volt meglátogatni a sziklát, a jelszóhordozó is hamar előkerült
 
@@ -161,11 +179,13 @@ Kincső és Csabi</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1529646">
 				<groundspeak:date>2016-04-23T16:53:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="59686">Drummerzozo</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1527032">
 				<groundspeak:date>2016-04-16T13:25:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="1381">totik</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszönjük a rejtést!
 (Viki, Geri), Krisz', TZ</groundspeak:text>
@@ -280,82 +300,98 @@ Ha figyelmesen átnézzük az egyes évszámokhoz tartozó, a közlekedési bale
 		<groundspeak:logs>
 			<groundspeak:log id="1560431">
 				<groundspeak:date>2016-07-20T15:05:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="89308">AtiGabi</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszönjük!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1556307">
 				<groundspeak:date>2016-07-10T12:59:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="94115">Mahesvara</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget.l [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1555266">
 				<groundspeak:date>2016-07-07T19:26:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="60275">kovianyo</groundspeak:finder>
 				<groundspeak:text encoded="False">köszönöm a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1552298">
 				<groundspeak:date>2016-06-27T21:07:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="18228">Békés nádas</groundspeak:finder>
 				<groundspeak:text encoded="False">Mai 31 km-es sétánk egyik állomása. :)</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1549415">
 				<groundspeak:date>2016-06-20T16:14:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="74637">pockok</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. Részletek később...
 Nem mögött, hanem mellett, de ok.  :)  [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1548605">
 				<groundspeak:date>2016-06-18T14:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="44514">Zsu1971</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszönöm szépen a lehetőséget!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1549120">
 				<groundspeak:date>2016-06-18T10:20:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="88901">Danichem13</groundspeak:finder>
 				<groundspeak:text encoded="False">Kellemes időben bringás találat. Köszönöm a rejtést.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1547571">
 				<groundspeak:date>2016-06-14T13:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="2082">szimari</groundspeak:finder>
 				<groundspeak:text encoded="False">ok</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1553153">
 				<groundspeak:date>2016-06-09T18:30:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="90489">thera</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam! Köszi a rejtést. Még éppen az eső előtt! :-)</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1546193">
 				<groundspeak:date>2016-06-09T10:42:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="89222">Gondx</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszi a rejtést! :) A mutatvány legkritikusabb pontja a csomag előhalászása volt a bányász kezeimmel. :D  [g:hu 1.4.30x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1544565">
 				<groundspeak:date>2016-06-04T16:37:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="32995">tomi77</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1544179">
 				<groundspeak:date>2016-06-03T17:20:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="94796">wilika</groundspeak:finder>
 				<groundspeak:text encoded="False">Meglett, köszi!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1541788">
 				<groundspeak:date>2016-05-27T09:52:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="40633">marpad</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. A kezem nem fért be, de sikerült kipiszkálni. Log cetlik beteltek ... [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1541577">
 				<groundspeak:date>2016-05-26T12:55:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="94774">gab83</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1541553">
 				<groundspeak:date>2016-05-26T10:51:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="71888">Panda88</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1541200">
 				<groundspeak:date>2016-05-24T17:14:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="94666">trailhawk</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a rejtést! [g:hu 1.5.2x] [wapon beküldött szöveg]
 ---------------------------------
@@ -366,21 +402,25 @@ A képminőségért elnézést, folyt a telefonon a víz. :-)</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1540193">
 				<groundspeak:date>2016-05-21T17:40:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="18957">Galmák</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltuk! A logfüzet betelt, mi meg nem vittünk ebbe alkalmasat. Aki teheti, cserélje ki.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1537235">
 				<groundspeak:date>2016-05-16T19:23:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="5391">Brogan</groundspeak:finder>
 				<groundspeak:text encoded="False">Rengeteg kutyás hemzsegett a szobor körül. Ezt a parkot teljesen kisajátították a kutyások. Falkában rohangásznak a kutyák mindenfele. A megtaláláshoz extrém lopakodó üzemmód szükséges. A logpapír betelt!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1536752">
 				<groundspeak:date>2016-05-08T17:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="9314">Tikis</groundspeak:finder>
 				<groundspeak:text encoded="False">koszi, nem tudtam hogy ilyen nagy park van itt.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1534766">
 				<groundspeak:date>2016-05-08T13:45:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="85994">ikba88</groundspeak:finder>
 				<groundspeak:text encoded="False">köszi a rejtést!</groundspeak:text>
 			</groundspeak:log>

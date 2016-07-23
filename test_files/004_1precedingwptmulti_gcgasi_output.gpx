@@ -82,6 +82,7 @@ A domboldalban található egy jellegzetes facsoport, szorosan egymás mellett. 
 		<groundspeak:logs>
 			<groundspeak:log id="1560629">
 				<groundspeak:date>2016-07-20T13:54:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="48710">csbagi</groundspeak:finder>
 				<groundspeak:text encoded="False">Túra Istvánnal Piliscsaba és Tinnye között, Pázmáneumtól Üvegtigrisig.
 A kilátás szép, de az élmény értékéből jelentősen levon a bozótharc, amit főleg a 3. pont környékén folytattunk.
@@ -89,11 +90,13 @@ Viszont a rejtések kiválóak!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1560683">
 				<groundspeak:date>2016-07-19T13:54:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="50167">Cseber</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam Ágival!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1553974">
 				<groundspeak:date>2016-07-04T00:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="89616">feherlofia_com</groundspeak:finder>
 				<groundspeak:text encoded="False">Mivel a comos leírás egyáltalán nem aktuális, és az ottani keresők kérésére sem történt a leírásban változtatás, az ottani felületen megszüntetem a ládát. HA mégis tervezd a javítást, kérlek vedd fel velem a kapcsolatot.
 
@@ -102,6 +105,7 @@ geocaching.com önkéntes ládaellenőr</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1553895">
 				<groundspeak:date>2016-07-02T17:00:00</groundspeak:date>
+				<groundspeak:type>Attended</groundspeak:type>
 				<groundspeak:finder id="18228">Békés nádas</groundspeak:finder>
 				<groundspeak:text encoded="False">Igyekeztünk szimultán felkeresni a Garancs környékét bemutató multikat. Közben a Tigrisnél kávéztunk egy jót.
 A 3 pontból 2-t megtaláltunk, a harmadikat nem találtuk, hiába verekedtük át magunkat a hatalmas bozóton 40 fokos hőségben. (merthogy a terület nyakig dzsindzsa...)
@@ -110,16 +114,19 @@ Bízom benne, hogy bozótharcunk nem volt hiába való és kapunk egy jóváhagy
 			</groundspeak:log>
 			<groundspeak:log id="1543063">
 				<groundspeak:date>2016-05-29T22:17:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="25208">Mirabelle</groundspeak:finder>
 				<groundspeak:text encoded="False">köszi</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1540079">
 				<groundspeak:date>2016-05-22T00:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="20419">joco64</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszönöm.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1532291">
 				<groundspeak:date>2016-05-01T09:10:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="24210">Access Denied</groundspeak:finder>
 				<groundspeak:text encoded="False">13/4. Összesen 29 km / 965 m, ebből 4.7 km és 108 m szint.
 
@@ -130,31 +137,37 @@ Köszi a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1529881">
 				<groundspeak:date>2016-04-23T21:13:54</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="90351">BarlangÁszok</groundspeak:finder>
 				<groundspeak:text encoded="False">Ötletes, korrekt rejtések, szép út, köszönjük! :)</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1515350">
 				<groundspeak:date>2016-03-20T09:57:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="89846">Vincenzo65</groundspeak:finder>
 				<groundspeak:text encoded="False">A két Garancs egyszerre. Vesse rám a követ aki egymás után körbejárja. Majd ugyanazt.Mi lesz,ha a bokrok kihajtanak? Így is egy kis apró véradáson vettem részt.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1515090">
 				<groundspeak:date>2016-03-20T00:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="63938">cs24</groundspeak:finder>
 				<groundspeak:text encoded="False">Megvolt</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1514695">
 				<groundspeak:date>2016-03-19T14:12:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="3588">h725</groundspeak:finder>
 				<groundspeak:text encoded="False">ok</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1499286">
 				<groundspeak:date>2016-01-28T14:11:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="50266">JAck:66:</groundspeak:finder>
 				<groundspeak:text encoded="False">Ez is megvan, mégsincs este. [g:hu 1.5.1w] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1488925">
 				<groundspeak:date>2015-12-16T13:23:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="22508">szollosi73</groundspeak:finder>
 				<groundspeak:text encoded="False">Megvan!
 Az első pontot kocsival közelítettem meg, majd átálltam a GCGrto-2 parkolóba, onnan sétáltam végig mindkét multit. Kellemes séta volt. Itt szerencsére már a köd is felszállt, szépen sütött a nap.
@@ -164,32 +177,38 @@ Köszi a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1487621">
 				<groundspeak:date>2015-12-10T00:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="35570">dendeocse</groundspeak:finder>
 				<groundspeak:text encoded="False">Megvan.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1487074">
 				<groundspeak:date>2015-12-06T13:25:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="5854">ozeki</groundspeak:finder>
 				<groundspeak:text encoded="False">.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1485371">
 				<groundspeak:date>2015-11-28T00:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="79136">kitkat0123</groundspeak:finder>
 				<groundspeak:text encoded="False">Kérlek vezesd át a változást a .com-on is, nem egy nagy élmény az akácosban keresni a nem létező ládát!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1484925">
 				<groundspeak:date>2015-11-25T16:10:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="24960">Stn72</groundspeak:finder>
 				<groundspeak:text encoded="False">+Van! Sokkal inkább lakópark kerülő... ;(
 A rejtés(ek) ötletesek, könnyen megtalálhatóak, még ha a helyszíneik választása kevésbé szerencsések is...</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1483410">
 				<groundspeak:date>2015-11-18T16:04:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="25506">vakond87</groundspeak:finder>
 				<groundspeak:text encoded="False">A lakópark nem nyerte el tetszésem, nagyon kihalt volt, viszont a környezet annál szebb. Köszönöm a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1483270">
 				<groundspeak:date>2015-11-17T10:35:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="15865">Liberty</groundspeak:finder>
 				<groundspeak:text encoded="False">5/1. Pilisi ládatúra.
 
@@ -197,6 +216,7 @@ Közös ládakeresés Mariannal és Szofi kutyussal. Nagyon szépek a Garancsi t
 			</groundspeak:log>
 			<groundspeak:log id="1483258">
 				<groundspeak:date>2015-11-17T10:35:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="79709">stmester</groundspeak:finder>
 				<groundspeak:text encoded="False">megvan köszi</groundspeak:text>
 			</groundspeak:log>

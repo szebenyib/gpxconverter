@@ -82,93 +82,111 @@ A séta után, ha megéheztél betérhetsz Németh László lakása mellett a Lu
 		<groundspeak:logs>
 			<groundspeak:log id="1560347">
 				<groundspeak:date>2016-07-20T16:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="92511">BLUEway&amp;#128153;2016!</groundspeak:finder>
 				<groundspeak:text encoded="False">Munka utáni ládakeresés! THX!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1554661">
 				<groundspeak:date>2016-07-04T23:59:59</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="91502">Salamarci</groundspeak:finder>
 				<groundspeak:text encoded="False">Tetszett az összetett feladat, köszönjük! (Mi egy kicsit megkeveredtünk az 5. Pontnál, mivel a kerítésen belüli dombormű készítőjét kerestük meg, pedig csak a kapu mellettit kellett.) Köszönjük!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1547087">
 				<groundspeak:date>2016-06-12T00:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="44844">magyar65</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszönjük!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1546034">
 				<groundspeak:date>2016-06-08T12:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="2082">szimari</groundspeak:finder>
 				<groundspeak:text encoded="False">ok</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1536336">
 				<groundspeak:date>2016-05-15T18:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="12727">pandala</groundspeak:finder>
 				<groundspeak:text encoded="False">Leleplezve! [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1527670">
 				<groundspeak:date>2016-04-17T18:49:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="91187">catNcat</groundspeak:finder>
 				<groundspeak:text encoded="False">.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1526980">
 				<groundspeak:date>2016-04-16T15:19:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="85994">ikba88</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszi a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1522418">
 				<groundspeak:date>2016-04-03T15:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="58033">csörike és maci</groundspeak:finder>
 				<groundspeak:text encoded="False">Ok.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1504236">
 				<groundspeak:date>2016-02-20T12:30:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="8079">keleven</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.1w] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1503415">
 				<groundspeak:date>2016-02-14T14:26:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="24746">tomesi</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszönjük a sétát.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1500751">
 				<groundspeak:date>2016-02-03T13:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="67819">distike</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1498262">
 				<groundspeak:date>2016-01-22T12:30:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="55263">kétbakancsos</groundspeak:finder>
 				<groundspeak:text encoded="False">Pasaréti séta hideg, de szép napos időben. a padon lévő alternatív jelszó a friss mázolás miatt nem található. Köszönjük a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1496618">
 				<groundspeak:date>2016-01-10T14:59:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="92522">Bundás Bocó</groundspeak:finder>
 				<groundspeak:text encoded="False">Kiváló, nagyszerű, rendkívül ravasz! Pasaréti lokálpatriótáknak ideális választás. A 6. pont lokalizálása külön öröm volt. Rossz, vagy bizonytalan időjárás esetére jobbat ki sem lehetett volna találni. A túra hossza 5,21 km, menetidő 1:55 + matekozás után vissza a 6. ponthoz sötétben lámpással.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1494618">
 				<groundspeak:date>2015-12-29T16:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="60365">Kata64</groundspeak:finder>
 				<groundspeak:text encoded="False">Több részletben. 2015.11.28-án 12:00-kor a Bartók-háznál a ládát, a többit pedig 29-én.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1488954">
 				<groundspeak:date>2015-12-16T17:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="14508">ludens</groundspeak:finder>
 				<groundspeak:text encoded="False">Sajnos a ládát nem találtam, korán besötétedett. Ezért segítséget kellett kérnem. Nekem kicsit bonyolultnak tűnik a 6. pont összeállítása.
 Az 5. pont leírását érdemes lenne módosítani, felesleges benne a 'G'.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1485833">
 				<groundspeak:date>2015-11-29T12:40:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="44645">Péter60</groundspeak:finder>
 				<groundspeak:text encoded="False">Laza autós kevergés, kis rejtői segítséggel.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1487658">
 				<groundspeak:date>2015-11-28T12:40:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="39832">Strombus</groundspeak:finder>
 				<groundspeak:text encoded="False">Kellemes környéken könnyű találat.
 A 3. ponton, a templomban csak hatbetűs szót találtunk a megadott helyen. Szerencsére ennek is ugyanaz az első betűje. Nem feltételezem, hogy a rejtő töri a magyar nyelvet vagy hiányzott az első osztályból, amikor a magyar nyelv sajátosságáról, a kettős betűkről tanultak, így el se tudom képzelni, hogy hova lett a hétbetűs szó.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1478951">
 				<groundspeak:date>2015-11-03T13:50:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="70653">Pogánypeti</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam, köszönöm a lehetőséget. A többit majd otthonról... :) [g:hu 1.5.1w] [wapon beküldött szöveg]
 Ez volt a mai napi budai multivadászatom negyedik találata a hétből... :)
@@ -177,11 +195,13 @@ Köszönöm a rejtést, jó kis séta volt... :)</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1478099">
 				<groundspeak:date>2015-11-01T16:22:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="41186">vaterlo</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszönöm a rejtést. Meglett, bár az 5. pontnál a GA utalást még mindig nem értem. Nincs a 6. pont koordinátájában G betű. :)</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1478424">
 				<groundspeak:date>2015-10-31T17:17:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="20822">Roberto Kesser</groundspeak:finder>
 				<groundspeak:text encoded="False">Elég kalandosra sikerűlt! Kevertem a com-os leírással, elgépeltam koordinátát,.. Így egy kicsit hosszabb lett, és hiába siettem, már sötétben értem a végére. De meglett, és szórakoztatott!
 Köszönöm a rejtést!</groundspeak:text>

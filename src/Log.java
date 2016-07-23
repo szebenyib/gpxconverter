@@ -5,6 +5,7 @@
 public class Log {
 
 	private String logId;
+	private String logType;
 	private String logDate;
 	private String logFinderId;
 	private String logFinderName;
@@ -13,6 +14,10 @@ public class Log {
 
 	public void setLogId(String logId) {
 		this.logId = logId;
+	}
+
+	public void setLogType(String logType) {
+		this.logType = logType;
 	}
 
 	public void setLogDate(String logDate) {
@@ -38,6 +43,7 @@ public class Log {
 	public Log deepCopyOfLog() {
 		Log newLog = new Log();
 		newLog.setLogId(this.logId);
+		newLog.setLogType(this.logType);
 		newLog.setLogDate(this.logDate);
 		newLog.setLogFinderId(this.logFinderId);
 		newLog.setLogFinderName(this.logFinderName);
@@ -53,6 +59,9 @@ public class Log {
 				"\t\t\t\t<groundspeak:date>" +
 				this.logDate +
 				"</groundspeak:date>\n" +
+				"\t\t\t\t<groundspeak:type>" +
+				this.logType +
+				"</groundspeak:type>\n" +
 				"\t\t\t\t<groundspeak:finder id=\"" +
 				this.logFinderId +
 				"\">" +

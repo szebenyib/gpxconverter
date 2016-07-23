@@ -74,33 +74,39 @@ Jó ládázást kívánunk!
 		<groundspeak:logs>
 			<groundspeak:log id="1552878">
 				<groundspeak:date>2016-07-01T10:58:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="77999">zsolty23</groundspeak:finder>
 				<groundspeak:text encoded="False">Sajnos a növényzet miatt most nem sok látszik a romokból.
 Köszönöm a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1523856">
 				<groundspeak:date>2016-04-05T09:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="50167">Cseber</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. 2016 első túrázása 3 napon át.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1516316">
 				<groundspeak:date>2016-03-24T15:07:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="35570">dendeocse</groundspeak:finder>
 				<groundspeak:text encoded="False">A láda szabadon hevert, beraktam a kövek közé. El van ázva, penészes a belseje, a jelszó még olvasható.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1495075">
 				<groundspeak:date>2016-01-02T00:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="1337">K.L.</groundspeak:finder>
 				<groundspeak:text encoded="False">Már erősen szürkült, mire ideértem. Azt hittem, hogy autóval jó darabon be lehet menni, de az út 1-200 m után járhatatlanná vált. Gyalog is az lett volna, ha a -7 fokban nem lett volna megfagyva. Régésznek biztos sokat jelent e hely, hozzá nem értőnek így nem sokat...
 A doboz nagyon rossz állapotban van.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1493692">
 				<groundspeak:date>2015-12-30T07:59:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="31813">Gábor75</groundspeak:finder>
 				<groundspeak:text encoded="False">Pimpivel Geoszilveszter előtt. Régóta halogatott láda ez, most a hajnali fagy miatt sár nélkül megúsztuk. Köszönöm a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1463558">
 				<groundspeak:date>2015-09-23T18:20:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="15865">Liberty</groundspeak:finder>
 				<groundspeak:text encoded="False">4/4. Visegrádi ládatúra Párduc50-el.
 
@@ -108,47 +114,56 @@ A hatalmas aljnövényzet miatt a bemutatni kívánt erődből semmi sem látszo
 			</groundspeak:log>
 			<groundspeak:log id="1463320">
 				<groundspeak:date>2015-09-22T17:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="75949">Párduc50</groundspeak:finder>
 				<groundspeak:text encoded="False">Mentem szántáson, kukoricában, de meglett. A Duna miatt inkább megérte, mint az erőd miatt. Köszi! Néhány rabsic tesztelte a halállományt :-9</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1461252">
 				<groundspeak:date>2015-09-15T13:30:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="5271">Zolicache</groundspeak:finder>
 				<groundspeak:text encoded="False">Ok-</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1460051">
 				<groundspeak:date>2015-09-13T13:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="17213">paul</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszönöm a rejtést.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1455885">
 				<groundspeak:date>2015-08-30T16:18:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="39823">kópé1993</groundspeak:finder>
 				<groundspeak:text encoded="False">Elég nehezen lehet megközelíteni a helyet, de a láda meglett.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1441052">
 				<groundspeak:date>2015-08-02T12:56:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="8079">keleven</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltuk.</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1441246">
 				<groundspeak:date>2015-08-02T10:49:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="245">begeba</groundspeak:finder>
 				<groundspeak:text encoded="False">OK</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1440103">
 				<groundspeak:date>2015-08-01T17:50:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="34786">Mo-Hó</groundspeak:finder>
 				<groundspeak:text encoded="False">Tényleg nem sok látni való volt, de ismereteinket gyarapítottuk ez által is...
 Köszi a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1439815">
 				<groundspeak:date>2015-08-01T12:56:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="86155">stikli08</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. sajnaos a láda tönkrement.. be van törve és minden szét van ázva benne... Köszönöm a Rejtő fáradozását. [g:hu 1.4.30x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1437726">
 				<groundspeak:date>2015-07-26T09:42:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="38021">nmárti</groundspeak:finder>
 				<groundspeak:text encoded="False">Újabb kaland. Autóval a kukoricásig jutottunk. Onnan gyalog viszonylag könnyen elértük a célterületet. Megcsodáltuk a Dunát, majd próbáltuk felfedezni a romokat és a ládát. Több irányból próbálkoztunk, de akkora volt az aljnövényzet /helyenkét derékig ért /, hogy lehetetlen volt átvágni a dzsungelen. Amikor megcsípett egy bögöly, feladtam. A képek alapján kérem a találat elfogadását, köszönettel :)
 
@@ -156,26 +171,31 @@ Köszi a rejtést!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1417971">
 				<groundspeak:date>2015-05-29T12:11:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="86953">vajasfok</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam, köszönöm!</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1405905">
 				<groundspeak:date>2015-05-02T19:44:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="11361">tomv84</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.4.30x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1403905">
 				<groundspeak:date>2015-04-27T16:59:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="3316">befi</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. [g:hu 1.4.30x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1400705">
 				<groundspeak:date>2015-04-19T19:27:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="37022">orangebrotherz</groundspeak:finder>
 				<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.4.30x] [wapon beküldött szöveg]</groundspeak:text>
 			</groundspeak:log>
 			<groundspeak:log id="1401078">
 				<groundspeak:date>2015-04-17T00:00:00</groundspeak:date>
+				<groundspeak:type>Found it</groundspeak:type>
 				<groundspeak:finder id="81412">Benec</groundspeak:finder>
 				<groundspeak:text encoded="False">Köszi a rejtést!
 Üdv: Benec
