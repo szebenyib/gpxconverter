@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0 http://www.groundspeak.com/cache/1/0/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+<wpt lat="47.543083333333" lon="18.989016666667">
+<ele>305</ele>
+<time>2014-02-10T21:54:23Z</time>
+<name>GCOrsz-3758</name>
+<cmt>3758 - 2014.02.10 21:54</cmt>
+<desc><![CDATA[Oroszlan-szikla:2.0/2.0,V,R140210,U160708]]></desc>
+<url>https://geocaching.hu/caches.geo?id=4491</url>
+<urlname><![CDATA[GCOrsz-3758]]></urlname>
+<sym>Geocache Found</sym>
+<type><![CDATA[Geocache Found]]></type>
+<groundspeak:cache id="4491" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+<groundspeak:name>Oroszlán-szikla</groundspeak:name>
+<groundspeak:placed_by>Blue Mali, Piedone</groundspeak:placed_by>
+<groundspeak:owner id="34063">Blue Mali [06209441527]</groundspeak:owner>
+<groundspeak:type>Virtual Cache</groundspeak:type>
+<groundspeak:difficulty>2</groundspeak:difficulty>
+<groundspeak:terrain>2</groundspeak:terrain>
+<groundspeak:country>Budapest</groundspeak:country>
+<groundspeak:long_description>&lt;b&gt;Wap&lt;/b&gt;
+
+Adott koordinátán, egy nagy szikla alatt benyúlva van a kb. 15 cm-es fadarab, és annak az aljára van felszögelve a jelszót hordozó léc!
+
+&lt;hr&gt;&lt;a href=&quot;http://www.geocaching.hu/documents.geo?id=tb&quot; target=_new&gt;&lt;img src=&quot;http://www.geocaching.hu/files/tbno.gif&quot; border=0&gt;&lt;/a&gt; A ládába TravelBug &lt;b&gt;nem&lt;/b&gt; helyezhető.&lt;hr&gt;
+
+Kedves Kesser!
+
+Eljött az idő, hogy ez a célpont is ládát kapjon. Ez a látványosság az Oroszlán-szikla. A nevezetes szikla Budapest közigazgatási határán belül található Budapest II. kerületében.
+
+&lt;b&gt;Megközelítés&lt;/b&gt;
+
+Autóval érkezőknek ajánlott parkoló: &amp;gt;coord lat=&quot;N 47° 32,404&#039;&quot; lon=&quot;E 18° 59,287&#039;&quot; altitude=&quot;242&quot; waypoint=&quot;parkoló&quot; icon=&quot;parkoló&quot; description=&quot;itt érdemes parkolni&quot;&amp;lt;
+
+Aki tömegközlekedéssel jön az a 11-es busszal tud egészen a Nagybányai út végállomásig jönni, és onnan a zöld C &lt;img src=&quot;http://geocaching.hu/files/tjelek/zkort.gif&quot; alt=&quot;Zöld körtúra&quot; border=1&gt;, majd a kék &lt;img src=&quot;http://geocaching.hu/files/tjelek/k.gif&quot; alt=&quot;kék sáv&quot; border=1&gt; turistaúton a ládáig.
+
+&lt;b&gt;Rövid történet&lt;/b&gt;
+
+Nyugati, meredek lejtője alatt a Glück Frigyesről elnevezett sétaút vezet a Határ-nyeregtől a Látó-hegyre. Az út fő látnivalója az Oroszlán-szikla. A szikla egy oroszlánra hasonlító dolomittömb, amit utána faragtak, hogy még jobban hasonlítson az állatra. A szikla a második világháborúban megsérült. Egyes elméletek szerint 1946-ban egyszerűen lerobbantották a fejét.
+
+&lt;b&gt;Glück Frigyesről röviden&lt;/b&gt;
+
+1902-ben kezdeményezte, hogy tartsák Budapesten a szállodások nemzetközi kongresszusát, amit jó alkalomnak vélt a város turizmusának fellendítése érdekében. Ezen a kongresszuson javasolta a János-hegyi kilátó építését, ami 1910-ben készült el. 1929-ben az ő kezdeményezésére épült meg a Látó-hegyen az Árpád-kilátó, amelyet érint az ő nevét viselő sétaút.
+
+&lt;b&gt;Közeli látványosság&lt;/b&gt;
+
+A hegyoldalban egy triász időszaki dolomitban kialakult kis barlang, az Oroszlán-barlang található. Védett természeti érték. Más néven: Kecske-hegyi-barlang, Oroszlán kői-barlang, Oroszlán-szikla fölötti barlang. Hossza 11 méter, vertikális kiterjedése 4 méter. Mivel ennek nyoma sincs a turista térképen ( csak olvastam róla ) megtalálása bizonytalan.
+
+Találtam valami barlang féleséget az alábbi koordinátán, ha szeretnétek nézzétek meg &amp;gt;coord lat=&quot;N 47° 32,556&#039;&quot; lon=&quot;E 18° 59,383&#039;&quot; altitude=&quot;329&quot; waypoint=&quot;Barlang&quot; icon=&quot;Tunnel&quot; description=&quot;Barlang&quot;&amp;lt;
+
+Akinek van kedve az megkeresheti a közeli geoládát, a
+&lt;a href=&quot;http://geocaching.hu/caches.geo?id=33&quot;&gt; GCKL1-et&lt;/a&gt;
+
+Források
+&lt;a href=&quot;http://hu.wikipedia.org/wiki/Kecske-hegy&quot;&gt; Wikipedi.hu&lt;/a&gt;
+&lt;a href=&quot;http://szepkilatas.blog.hu/2012/03/18/csungo_csajgyumolcs_es_kobornagyi&quot;&gt; Szepkilatas.blog.hu&lt;/a&gt;
+
+Remélem hogy sikerült egy sokak által ismert, de mégis
+kitűnő célponthoz hívni titeket!
+
+Sok sikert, szép élményeket kívánok!</groundspeak:long_description>
+<groundspeak:logs>
+<groundspeak:log id="1555436">
+<groundspeak:date>2016-07-08T16:19:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="83012">S-A</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltuk. Köszönjük a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1552655">
+<groundspeak:date>2016-07-01T15:08:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="94807">zsufi8</groundspeak:finder>
+<groundspeak:text encoded="False">Megvan! [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1548972">
+<groundspeak:date>2016-06-19T16:00:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="12727">pandala</groundspeak:finder>
+<groundspeak:text encoded="False">Leleplezve! [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1548510">
+<groundspeak:date>2016-06-18T11:26:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="90994">Mozso1</groundspeak:finder>
+<groundspeak:text encoded="False">Köszönjük :)</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1548787">
+<groundspeak:date>2016-06-18T10:30:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="94942">taczmana</groundspeak:finder>
+<groundspeak:text encoded="False">Köszi a rejtést! :)</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1548269">
+<groundspeak:date>2016-06-17T20:00:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="46521">Ancs</groundspeak:finder>
+<groundspeak:text encoded="False">Köszi, részletek később :) [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1547531">
+<groundspeak:date>2016-06-13T09:22:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="54470">braunfrici</groundspeak:finder>
+<groundspeak:text encoded="False">Megvagy!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1547080">
+<groundspeak:date>2016-06-12T17:30:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="61706">atti92</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1547084">
+<groundspeak:date>2016-06-12T15:08:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="90000">Scarlet</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1545394">
+<groundspeak:date>2016-06-05T10:28:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="93967">ziziperec</groundspeak:finder>
+<groundspeak:text encoded="False">Megvan! Köszi!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1545719">
+<groundspeak:date>2016-06-05T10:27:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="93952">szekat</groundspeak:finder>
+<groundspeak:text encoded="False">Köszi!Megvan!
+TFTC</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1544616">
+<groundspeak:date>2016-06-04T18:24:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="89593">Arian</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1544684">
+<groundspeak:date>2016-06-04T11:30:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="34786">Mo-Hó</groundspeak:finder>
+<groundspeak:text encoded="False">Meglett.
+Köszi a rejtést!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1542831">
+<groundspeak:date>2016-05-29T16:30:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="91501">Krida</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltuk:)Köszönjük szépen!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1542819">
+<groundspeak:date>2016-05-29T15:30:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="71980">Vidágyi</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltuk:)</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1542077">
+<groundspeak:date>2016-05-28T11:20:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="8827">Murmogoek</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltuk. Köszönjük a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1540649">
+<groundspeak:date>2016-05-22T13:11:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="43775">Balear</groundspeak:finder>
+<groundspeak:text encoded="False">Buda Bércein TT alatt még csak letérnünk sem kellett az ösvényről. Már régóta listás láda, Kincső találta meg végül :)
+
+Köszönjük, hogy megmutattad ezt a különleges képződményt,
+
+Kincső és Csabi</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1539943">
+<groundspeak:date>2016-05-22T13:10:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="88227">kincs92</groundspeak:finder>
+<groundspeak:text encoded="False">Buda Bércein TT alatt :) Egyszer már majdnem megkerestük ezt a ládát, azonban szerencse hogy eddig vártunk vele, mert most pont útba esett. Korábban nehezített terepen akartuk megközelíteni :D Érdemes volt meglátogatni a sziklát, a jelszóhordozó is hamar előkerült
+
+Köszönjük a rejtést,
+Kincső és Csabi</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1529646">
+<groundspeak:date>2016-04-23T16:53:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="59686">Drummerzozo</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1527032">
+<groundspeak:date>2016-04-16T13:25:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="1381">totik</groundspeak:finder>
+<groundspeak:text encoded="False">Köszönjük a rejtést!
+(Viki, Geri), Krisz&#039;, TZ</groundspeak:text>
+</groundspeak:log>
+</groundspeak:logs>
+</groundspeak:cache>
+</wpt>
+
+<wpt lat="47.540066666667" lon="18.988116666667">
+<ele>242</ele>
+<time>2014-02-10T21:54:23Z</time>
+<name>GCOrsz-3758+parkoló</name>
+<cmt>3758 - 2014.02.10 21:54</cmt>
+<desc><![CDATA[itt érdemes parkolni]]></desc>
+<url>https://geocaching.hu/caches.geo?id=4491</url>
+<urlname><![CDATA[GCOrsz-3758+parkoló]]></urlname>
+<sym>Parking Area</sym>
+<type><![CDATA[Parking Area]]></type>
+</wpt>
+
+<wpt lat="47.5426" lon="18.989716666667">
+<ele>329</ele>
+<time>2014-02-10T21:54:23Z</time>
+<name>GCOrsz-3758+Barlang</name>
+<cmt>3758 - 2014.02.10 21:54</cmt>
+<desc><![CDATA[Barlang]]></desc>
+<url>https://geocaching.hu/caches.geo?id=4491</url>
+<urlname><![CDATA[GCOrsz-3758+Barlang]]></urlname>
+<sym>Tunnel</sym>
+<type><![CDATA[Tunnel]]></type>
+</wpt>
+
+<wpt lat="47.54025" lon="19.038933333333">
+<ele>103</ele>
+<time>2013-08-29T11:52:34Z</time>
+<name>GCVEZO-3628</name>
+<cmt>3628 - 2013.08.29 11:52</cmt>
+<desc><![CDATA[Vezess ovatosan!:1.5/1.5,H,R130829,U160720]]></desc>
+<url>https://geocaching.hu/caches.geo?id=4339</url>
+<urlname><![CDATA[GCVEZO-3628]]></urlname>
+<sym>Geocache</sym>
+<type><![CDATA[Geocache]]></type>
+<groundspeak:cache id="4339" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0">
+<groundspeak:name>Vezess óvatosan!</groundspeak:name>
+<groundspeak:placed_by>RAJP, Adoptálta: Blue Mali&amp;Piedone</groundspeak:placed_by>
+<groundspeak:owner id="34063">Blue Mali [06209441527]</groundspeak:owner>
+<groundspeak:type>Traditional Cache</groundspeak:type>
+<groundspeak:difficulty>1.5</groundspeak:difficulty>
+<groundspeak:terrain>1.5</groundspeak:terrain>
+<groundspeak:country>Budapest</groundspeak:country>
+<groundspeak:long_description>&lt;u&gt;&lt;b&gt;WAP&lt;/b&gt;&lt;/u&gt;
+
+Mikroláda 5X3 cm-es az autó mögött a sarokban található. Nyúlj be balra, megleled!
+
+&lt;b&gt;&lt;u&gt;WAP vége&lt;/u&gt;&lt;/b&gt;
+
+&lt;hr&gt;&lt;a href=&quot;http://www.geocaching.hu/documents.geo?id=tb&quot; target=_new&gt;&lt;img src=&quot;http://www.geocaching.hu/files/tbno.gif&quot; border=0&gt;&lt;/a&gt; A ládába TravelBug &lt;b&gt;nem&lt;/b&gt; helyezhető.&lt;hr&gt;
+
+&lt;b&gt;&lt;u&gt;A rejtés célja&lt;/b&gt;&lt;/u&gt;
+
+E ládával kettős a célunk. Egyrészről szeretnénk megmutatni ezt a nagyon szépen elkészített emlékművet, másrészről pedig szeretnénk felhívni mindenki figyelmét a körültekintő, felelősségteljes autózás fontosságára.
+
+&lt;b&gt;&lt;u&gt;Megközelítés&lt;/b&gt;&lt;/u&gt;
+
+A park könnyen megközelíthető bármilyen közlekedési eszközzel.
+
+&lt;b&gt;Tömegközlekedőknek&lt;/b&gt; több lehetséges opciójuk van.
+
+Az &lt;b&gt;1-es villamos&lt;/b&gt;sal érkezőknek a Flórián tér megállónál kell leszállni. A megállótól már látszik a park, ott az úti cél.
+
+A &lt;b&gt;H5-ös HÉV&lt;/b&gt;-ről a Szentlélek téren kell leszállni, majd elindulni egyenesen.
+
+Aki a &lt;b&gt;9-es busszal&lt;/b&gt; vagy a &lt;b&gt;86-os busszal&lt;/b&gt; érkezik, javasolt leszállniuk a Kiscelli utcai megállónál.
+
+Bármelyik tömegközlekedési eszközt választod, a láda megközelíthető maximum 8 perc alatt.
+
+&lt;b&gt;Autóval érkezőknek&lt;/b&gt; javasolt parkoló a &amp;gt;coord lat=&quot;N 47.5401111°&quot; lon=&quot;E 19.0381861°&quot; altitude=&quot;86&quot; waypoint=&quot;1parkolo&quot; icon=&quot;parkoló&quot; description=&quot;Ajánlott parkoló&quot;&amp;lt; ponton található.
+
+&lt;b&gt;&lt;u&gt;Az emlékműről&lt;/b&gt;&lt;/u&gt;
+
+A Közlekedési balesetek áldozatainak emlékműve Budapest III. kerületében, Óbudán található a a Flórián tér - Szőlő utca - Kiscelli utca által határolt közterületen. Az emlékmű tövében egy összetört személygépkocsi található, felette egy angyal, mely felemelt jobb mutatóujjával, quasi figyelemztetésként az égre mutat. Az alkotást Mihály Gábor szobrászművész készítette. Az emlékművet még Göncz Árpád köztársasági elnök avatta fel 1996. június 17-én. Az ORFK - OBB a halottak napja alkalmából minden évben koszorúzási ünnepséget tart, amikor is felkerül az emlékmű oldalára az előző év halálos áldozatainak száma.
+
+&lt;i&gt;Forrás: Wikipédia&lt;/i&gt;
+
+Ha figyelmesen átnézzük az egyes évszámokhoz tartozó, a közlekedési balesetekben elhunytak számát, jól láthatjuk, hogy számuk évről évre csökken! Reméljük, hogy e ládával, ha csak egy nagyon kis részben is, de hozzájárulunk ahhoz, hogy ez a szám tovább csökkenjen, azaz mi, kesserek is egy kicsivel jobban odafigyeljünk vezetés közben.
+
+&lt;b&gt;2012-ben Magyarországon &lt;font color=&quot;red&quot;&gt;605 ember&lt;/font&gt; vesztette életét közlekedési balesetekben. Tegyél Te is ellene!&lt;/b&gt;
+
+&lt;b&gt;&lt;u&gt;Ládatörténet:&lt;/u&gt;&lt;/b&gt;
+
+&lt;u&gt;2013. augusztus 29.:&lt;/u&gt; a láda kihelyezve
+
+&lt;u&gt;2013. szeptember 2.:&lt;/u&gt; új logbook a ládában, a régi (köszönhetően a sok megtalálásnak) betelt! Köszönjük a bizalmat és a rengeteg megtalálást!
+
+&lt;u&gt;2013. szeptember 5.:&lt;/u&gt; Túl a &lt;font color=&quot;red&quot;&gt;100. megtalálás&lt;/font&gt;on! Köszönjük!
+
+&lt;u&gt;2013. október 13.:&lt;/u&gt; Túl a &lt;font color=&quot;red&quot;&gt;200. megtalálás&lt;/font&gt;on! Köszönjük!
+
+&lt;u&gt;2013. október 24.:&lt;/u&gt; Új logbook került a ládába, a régi betelt! Nagyon örülünk a sok megtalálásnak, és a többségben lévő pozitív hozzászólásoknak!
+
+&lt;u&gt;2013. november 20.:&lt;/u&gt; A pótjelszó cserélve, át lett helyezve! Olvassátok el a részletekért a leírást! A láda egyébként továbbra is megközelíthető és kereshető, a koszorúk nem befolyásolják a keresését! :) A nehézséget 3-as szintre emeltük tekintettel arra, hogy sokan nem találták meg a ládát. (Pedig az a helyén volt.)
+
+&lt;u&gt;2014. január 1.:&lt;/u&gt; Sikeres 2014-es évet kívánunk ez úton is mindenkinek! Gratulálunk az év első megtalálójának, BeBa-nak!
+
+&lt;u&gt;2014. január 16.:&lt;/u&gt; Túl a &lt;font color=&quot;red&quot;&gt;300. megtalálás&lt;/font&gt;on! Köszönjük!
+
+&lt;u&gt;2014. február 8.:&lt;/u&gt; A láda karbantartása megtörtént. (A koszorúk beszedésekor a láda is áldozatul esett sajnos, ezt most pótoltuk...) A másodlagos jelszót is felfrissítettük. További élményekben gazdag keresést!
+
+&lt;u&gt;2014. június 19.:&lt;/u&gt; Túl a &lt;font color=&quot;red&quot;&gt;400. megtalálás&lt;/font&gt;on! Köszönjük! A ládát felfrissítettük, az utóbbi egy hétben sajnos nem volt a helyén!
+
+&lt;u&gt;2015.május 29.:&lt;/u&gt; Adoptáltam RAJP-tól, illetve az adoptálható ládáktól, kereshető. Remélem sokan lelitek örömötöket benne! Blue Mali</groundspeak:long_description>
+<groundspeak:logs>
+<groundspeak:log id="1560431">
+<groundspeak:date>2016-07-20T15:05:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="89308">AtiGabi</groundspeak:finder>
+<groundspeak:text encoded="False">Köszönjük!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1556307">
+<groundspeak:date>2016-07-10T12:59:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="94115">Mahesvara</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget.l [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1555266">
+<groundspeak:date>2016-07-07T19:26:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="60275">kovianyo</groundspeak:finder>
+<groundspeak:text encoded="False">köszönöm a rejtést!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1552298">
+<groundspeak:date>2016-06-27T21:07:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="18228">Békés nádas</groundspeak:finder>
+<groundspeak:text encoded="False">Mai 31 km-es sétánk egyik állomása. :)</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1549415">
+<groundspeak:date>2016-06-20T16:14:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="74637">pockok</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. Részletek később...
+Nem mögött, hanem mellett, de ok.  :)  [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1548605">
+<groundspeak:date>2016-06-18T14:00:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="44514">Zsu1971</groundspeak:finder>
+<groundspeak:text encoded="False">Köszönöm szépen a lehetőséget!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1549120">
+<groundspeak:date>2016-06-18T10:20:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="88901">Danichem13</groundspeak:finder>
+<groundspeak:text encoded="False">Kellemes időben bringás találat. Köszönöm a rejtést.</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1547571">
+<groundspeak:date>2016-06-14T13:00:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="2082">szimari</groundspeak:finder>
+<groundspeak:text encoded="False">ok</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1553153">
+<groundspeak:date>2016-06-09T18:30:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="90489">thera</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam! Köszi a rejtést. Még éppen az eső előtt! :-)</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1546193">
+<groundspeak:date>2016-06-09T10:42:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="89222">Gondx</groundspeak:finder>
+<groundspeak:text encoded="False">Köszi a rejtést! :) A mutatvány legkritikusabb pontja a csomag előhalászása volt a bányász kezeimmel. :D  [g:hu 1.4.30x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1544565">
+<groundspeak:date>2016-06-04T16:37:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="32995">tomi77</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1544179">
+<groundspeak:date>2016-06-03T17:20:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="94796">wilika</groundspeak:finder>
+<groundspeak:text encoded="False">Meglett, köszi!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1541788">
+<groundspeak:date>2016-05-27T09:52:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="40633">marpad</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. A kezem nem fért be, de sikerült kipiszkálni. Log cetlik beteltek ... [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1541577">
+<groundspeak:date>2016-05-26T12:55:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="94774">gab83</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1541553">
+<groundspeak:date>2016-05-26T10:51:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="71888">Panda88</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a lehetőséget. [g:hu 1.5.2x] [wapon beküldött szöveg]</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1541200">
+<groundspeak:date>2016-05-24T17:14:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="94666">trailhawk</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltam. Köszönöm a rejtést! [g:hu 1.5.2x] [wapon beküldött szöveg]
+---------------------------------
+(Időközben [18:30] WIFI közelébe kerültem)
+Rengetegszer jártam már a téren, de sosem mentem az emlékmű közelébe eddig. Nem is tudtam, hogy mit keres ott/mit ábrázol, mindig csak távolról láttam, ahogy éppen siettem valahova a környéken.
+Most a zuhogó esőben közelítettem meg, így legalább senki sem volt a közelben.
+A képminőségért elnézést, folyt a telefonon a víz. :-)</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1540193">
+<groundspeak:date>2016-05-21T17:40:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="18957">Galmák</groundspeak:finder>
+<groundspeak:text encoded="False">Megtaláltuk! A logfüzet betelt, mi meg nem vittünk ebbe alkalmasat. Aki teheti, cserélje ki.</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1537235">
+<groundspeak:date>2016-05-16T19:23:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="5391">Brogan</groundspeak:finder>
+<groundspeak:text encoded="False">Rengeteg kutyás hemzsegett a szobor körül. Ezt a parkot teljesen kisajátították a kutyások. Falkában rohangásznak a kutyák mindenfele. A megtaláláshoz extrém lopakodó üzemmód szükséges. A logpapír betelt!</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1536752">
+<groundspeak:date>2016-05-08T17:00:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="9314">Tikis</groundspeak:finder>
+<groundspeak:text encoded="False">koszi, nem tudtam hogy ilyen nagy park van itt.</groundspeak:text>
+</groundspeak:log>
+<groundspeak:log id="1534766">
+<groundspeak:date>2016-05-08T13:45:00</groundspeak:date>
+<groundspeak:type>Found it</groundspeak:type>
+<groundspeak:finder id="85994">ikba88</groundspeak:finder>
+<groundspeak:text encoded="False">köszi a rejtést!</groundspeak:text>
+</groundspeak:log>
+</groundspeak:logs>
+</groundspeak:cache>
+</wpt>
+
+<wpt lat="47.540116666667" lon="19.038183333333">
+<ele>86</ele>
+<time>2013-08-29T11:52:34Z</time>
+<name>GCVEZO-3628+1parkolo</name>
+<cmt>3628 - 2013.08.29 11:52</cmt>
+<desc><![CDATA[Ajánlott parkoló]]></desc>
+<url>https://geocaching.hu/caches.geo?id=4339</url>
+<urlname><![CDATA[GCVEZO-3628+1parkolo]]></urlname>
+<sym>Parking Area</sym>
+<type><![CDATA[Parking Area]]></type>
+</wpt>
+
+</gpx>
