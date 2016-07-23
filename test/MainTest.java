@@ -6,14 +6,15 @@ import java.io.FileInputStream;
 import java.io.FilenameFilter;
 import java.security.DigestInputStream;
 import java.security.MessageDigest;
+import java.util.Arrays;
 import java.util.List;
 
 import static org.junit.Assert.*;
 
 public class MainTest {
 
-	File[] gpxInputFiles;
-	File[] gpxGoodOutputFiles;
+	private File[] gpxInputFiles;
+	private File[] gpxGoodOutputFiles;
 
 	@Before
 	public void setUp() {
@@ -35,7 +36,11 @@ public class MainTest {
 			}
 		};
 		this.gpxInputFiles = folder.listFiles(inputFilesFilter);
+		assertNotNull("No input files have been found.", this.gpxInputFiles);
+		Arrays.sort(this.gpxInputFiles);
 		this.gpxGoodOutputFiles = folder.listFiles(outputFilesFilter);
+		assertNotNull("No good output files have been found.", this.gpxGoodOutputFiles);
+		Arrays.sort(this.gpxGoodOutputFiles);
 		//Check that there are at least one pair of files to process checking.
 		assertTrue("No gpx input files found! Please create some.",
 				this.gpxInputFiles.length > 0);
@@ -49,7 +54,7 @@ public class MainTest {
 	 * such files are present they will be used. Comparison takes place using
 	 * md5 checksums.
 	 *
-	 * @throws Exception
+	 * @throws Exception MessageDigest exception
 	 */
 	@Test
 	public void testMain() throws Exception {
